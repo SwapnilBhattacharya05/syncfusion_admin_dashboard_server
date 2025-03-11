@@ -1,0 +1,5489 @@
+[{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a530"
+  },
+  "Name": "Derek Levine",
+  "\tEmail": "mstephenson@fernandez.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "835 Frank TunnelWrightmouth, MI 82180-9605",
+  "YearlyAmountSpent": 587.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a531"
+  },
+  "Name": "Maisey Cline",
+  "\tEmail": "hduke@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "4547 Archer CommonDiazchester, CA 06566-8576",
+  "YearlyAmountSpent": 392.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a532"
+  },
+  "Name": "Paula Valentine",
+  "\tEmail": "pallen@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "24645 Valerie Unions Suite 582Cobbborough, DC 99414-7564",
+  "YearlyAmountSpent": 487.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a533"
+  },
+  "Name": "Zachariah Hutchinson",
+  "\tEmail": "riverarebecca@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "1414 David ThroughwayPort Jason, OH 22070-1220",
+  "YearlyAmountSpent": 581.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a534"
+  },
+  "Name": "Rebekah Johnson",
+  "\tEmail": "mstephens@davidson-herman.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "14023 Rodriguez PassagePort Jacobville, PR 37242-1057",
+  "YearlyAmountSpent": 599.41
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a535"
+  },
+  "Name": "Bibi Logan",
+  "\tEmail": "alvareznancy@lucas.biz",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "645 Martha Park Apt. 611Jeffreychester, MN 67218-7250",
+  "YearlyAmountSpent": 637.1
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a536"
+  },
+  "Name": "Sumaya Glenn",
+  "\tEmail": "katherine20@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "68388 Reyes Lights Suite 692Josephbury, WV 92213-0247",
+  "YearlyAmountSpent": 521.57
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a537"
+  },
+  "Name": "Damon Small",
+  "\tEmail": "awatkins@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "Unit 6538 Box 8980DPO AP 09026-4941",
+  "YearlyAmountSpent": 549.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a538"
+  },
+  "Name": "Gabriella Horton",
+  "\tEmail": "vchurch@walter-martinez.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "860 Lee KeyWest Debra, SD 97450-0495",
+  "YearlyAmountSpent": 570.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a539"
+  },
+  "Name": "Milan O'Quinn",
+  "\tEmail": "bonnie69@lin.biz",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "PSC 2734, Box 5255APO AA 98456-7482",
+  "YearlyAmountSpent": 427.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53a"
+  },
+  "Name": "Libby Connolly",
+  "\tEmail": "andrew06@peterson.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "26104 Alexander GrovesAlexandriaport, WY 28244-9149",
+  "YearlyAmountSpent": 492.61
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53b"
+  },
+  "Name": "Ibrahim Richmond",
+  "\tEmail": "ryanwerner@freeman.biz",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "Unit 2413 Box 0347DPO AA 07580-2652",
+  "YearlyAmountSpent": 522.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53c"
+  },
+  "Name": "Katherine Morton",
+  "\tEmail": "knelson@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "6705 Miller Orchard Suite 186Lake Shanestad, MO 75696-5051",
+  "YearlyAmountSpent": 408.64
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53d"
+  },
+  "Name": "Stella Sampson",
+  "\tEmail": "wrightpeter@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "05302 Dunlap FerryNew Stephaniehaven, MP 42268",
+  "YearlyAmountSpent": 573.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53e"
+  },
+  "Name": "Yousef Wade",
+  "\tEmail": "taylormason@gmail.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "7773 Powell Springs Suite 190Samanthaland, ND 44358",
+  "YearlyAmountSpent": 470.45
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a53f"
+  },
+  "Name": "Rose Hancock",
+  "\tEmail": "jstark@anderson.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "49558 Ramirez Road Suite 399Phillipstad, OH 35641-3238",
+  "YearlyAmountSpent": 461.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a540"
+  },
+  "Name": "Beau Kane",
+  "\tEmail": "wjennings@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "6362 Wilson MountainJohnsonfurt, GA 15169",
+  "YearlyAmountSpent": 457.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a541"
+  },
+  "Name": "Caspar Davila",
+  "\tEmail": "rebecca45@hale-bauer.biz",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "8982 Burton RowWilsonton, PW 88606",
+  "YearlyAmountSpent": 407.7
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a542"
+  },
+  "Name": "Sophie Jones",
+  "\tEmail": "alejandro75@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "64475 Andre Club Apt. 795Port Dannytown, PW 63227",
+  "YearlyAmountSpent": 452.32
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a543"
+  },
+  "Name": "Farhan Mendez",
+  "\tEmail": "samuel46@love-west.net",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "544 Alexander Heights Suite 768North Johnview, MT 57912",
+  "YearlyAmountSpent": 605.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a544"
+  },
+  "Name": "Katy Morris",
+  "\tEmail": "megan33@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "84426 Julia VistaNorth Teresa, KY 50756",
+  "YearlyAmountSpent": 534.71
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a545"
+  },
+  "Name": "Charley Parks",
+  "\tEmail": "agolden@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "PSC 2490, Box 2120APO AE 15445-2876",
+  "YearlyAmountSpent": 419.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a546"
+  },
+  "Name": "Jasper Branch",
+  "\tEmail": "vstafford@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "PSC 5723, Box 8159APO AA 74738",
+  "YearlyAmountSpent": 436.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a547"
+  },
+  "Name": "Kallum Frost",
+  "\tEmail": "denise22@hernandez-townsend.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "USNS CardenasFPO AA 85439-9449",
+  "YearlyAmountSpent": 519.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a548"
+  },
+  "Name": "Madeleine Delgado",
+  "\tEmail": "youngbarbara@yahoo.com",
+  "Status": "Active",
+  "Weeks": 6,
+  "Address": "019 Elliott Tunnel Suite 190Nicholsbury, WV 60804-4440",
+  "YearlyAmountSpent": 700.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a549"
+  },
+  "Name": "Kaleb Sears",
+  "\tEmail": "william25@mcconnell.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "9495 Mary Fall Apt. 777Glassport, ND 17957-5596",
+  "YearlyAmountSpent": 423.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54a"
+  },
+  "Name": "Aleena Kemp",
+  "\tEmail": "ijones@schaefer-carr.net",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "657 Judith CrossroadHancockchester, VI 75658-5788",
+  "YearlyAmountSpent": 619.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54b"
+  },
+  "Name": "Edna Marquez",
+  "\tEmail": "heatherhall@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "8522 Regina Port Suite 782Port Kaitlin, TX 50501-7264",
+  "YearlyAmountSpent": 486.84
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54c"
+  },
+  "Name": "Henrietta Downs",
+  "\tEmail": "tinasmith@martinez.info",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "40000 Ann Port Suite 474Youngberg, MS 03651",
+  "YearlyAmountSpent": 529.54
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54d"
+  },
+  "Name": "Ellie Zamora",
+  "\tEmail": "chasejennifer@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "9507 Robert Prairie Apt. 601East Crystalview, SC 56814",
+  "YearlyAmountSpent": 554.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54e"
+  },
+  "Name": "Charles Olson",
+  "\tEmail": "jenniferbarnett@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "0772 Michael Isle Suite 617Meyerstown, WA 45449-6768",
+  "YearlyAmountSpent": 497.59
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a54f"
+  },
+  "Name": "Lennox Christian",
+  "\tEmail": "jared39@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "739 David Isle Suite 818Chandlertown, DC 34587",
+  "YearlyAmountSpent": 447.69
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a550"
+  },
+  "Name": "Kurtis Cherry",
+  "\tEmail": "briancarlson@page-fleming.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "USCGC GillFPO AA 26496",
+  "YearlyAmountSpent": 588.71
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a551"
+  },
+  "Name": "David Bradshaw",
+  "\tEmail": "joshuaodom@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "5277 Patel BrookEast Audrey, NJ 19075",
+  "YearlyAmountSpent": 491.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a552"
+  },
+  "Name": "Victor Nelson",
+  "\tEmail": "vickie90@lee-wilson.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "9135 Rodriguez DamRamirezberg, MS 77223",
+  "YearlyAmountSpent": 507.44
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a553"
+  },
+  "Name": "Roger Burnett",
+  "\tEmail": "duane56@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "24373 Mcgee Drive Apt. 990New Mariahaven, NH 14470",
+  "YearlyAmountSpent": 521.88
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a554"
+  },
+  "Name": "Celeste Hunter",
+  "\tEmail": "enash@gmail.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "997 Campbell Flat Suite 970East Amanda, PW 22048",
+  "YearlyAmountSpent": 347.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a555"
+  },
+  "Name": "Halima Carver",
+  "\tEmail": "sandraharrison@bailey-gordon.net",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "7835 Rogers RoadsEast Amberhaven, MI 70835-2286",
+  "YearlyAmountSpent": 490.74
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a556"
+  },
+  "Name": "Clara Stewart",
+  "\tEmail": "cunninghamwilliam@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "4589 Dan FordsBeasleyburgh, ME 96590-8272",
+  "YearlyAmountSpent": 478.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a557"
+  },
+  "Name": "Szymon Horne",
+  "\tEmail": "teresaallen@hill-leach.info",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "1958 Robert Bridge Apt. 250Malloryland, ID 03393-5336",
+  "YearlyAmountSpent": 537.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a558"
+  },
+  "Name": "Oliwia Sanders",
+  "\tEmail": "rhonda96@little.org",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "2977 Perez RowLake Jack, TN 45336-9436",
+  "YearlyAmountSpent": 532.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a559"
+  },
+  "Name": "Asad Levy",
+  "\tEmail": "lisacabrera@yahoo.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "9801 Thomas Pike Suite 058Brandishire, AK 88122-1314",
+  "YearlyAmountSpent": 501.87
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55a"
+  },
+  "Name": "Elsie Heath",
+  "\tEmail": "jasonrichardson@elliott.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "18372 Matthew Fork Suite 705North Matthewmouth, KY 99737",
+  "YearlyAmountSpent": 591.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55b"
+  },
+  "Name": "Lila Chase",
+  "\tEmail": "hoovernicole@dorsey.net",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "69403 Hernandez KnollsMarciashire, DE 36417-5667",
+  "YearlyAmountSpent": 547.24
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55c"
+  },
+  "Name": "Roman Thompson",
+  "\tEmail": "christopher20@gmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "USNV FullerFPO AE 32122-5711",
+  "YearlyAmountSpent": 448.23
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55d"
+  },
+  "Name": "Isaac Valencia",
+  "\tEmail": "brianwilson@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "448 Stewart DivideNew Ashleyfort, FM 84050",
+  "YearlyAmountSpent": 549.86
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55e"
+  },
+  "Name": "Steve Hewitt",
+  "\tEmail": "gonzaleskatie@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "70129 Darrell SpringThomasmouth, HI 39319-2739",
+  "YearlyAmountSpent": 593.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a55f"
+  },
+  "Name": "Tallulah Gray",
+  "\tEmail": "lsmith@chung.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "412 Jackson RiverKleinburgh, KS 52039-7404",
+  "YearlyAmountSpent": 563.67
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a560"
+  },
+  "Name": "Jimmy Blankenship",
+  "\tEmail": "dongarcia@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "546 Benjamin Lights Suite 421Romerofurt, NC 43746-4501",
+  "YearlyAmountSpent": 479.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a561"
+  },
+  "Name": "Aiden Rocha",
+  "\tEmail": "kimberly46@garcia-nelson.biz",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "4066 Gonzalez Dam Apt. 277West Jessica, TN 36880",
+  "YearlyAmountSpent": 416.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a562"
+  },
+  "Name": "Bruno Summers",
+  "\tEmail": "william82@gmail.com",
+  "Status": "Active",
+  "Weeks": 6,
+  "Address": "11143 Park SquaresSamanthatown, UT 97073",
+  "YearlyAmountSpent": 725.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a563"
+  },
+  "Name": "Simeon Fitzpatrick",
+  "\tEmail": "brenda82@maldonado-gonzalez.net",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "645 Elizabeth PassWilliamview, MS 51544",
+  "YearlyAmountSpent": 442.67
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a564"
+  },
+  "Name": "Lucas Cummings",
+  "\tEmail": "josephgould@west.info",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "861 Annette Stream Suite 771North Miguel, CA 33824-1610",
+  "YearlyAmountSpent": 384.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a565"
+  },
+  "Name": "Harold Copeland",
+  "\tEmail": "wbrady@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "044 Riggs ExpresswayLake Stevenchester, AL 22283",
+  "YearlyAmountSpent": 451.46
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a566"
+  },
+  "Name": "Iestyn Wong",
+  "\tEmail": "smithtracey@mcgee.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "PSC 4508, Box 7961APO AA 55271-2375",
+  "YearlyAmountSpent": 522.4
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a567"
+  },
+  "Name": "Gwen Miller",
+  "\tEmail": "amberchase@fowler.info",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "1867 Gregory Isle Suite 022Port Tammy, LA 52305-9696",
+  "YearlyAmountSpent": 483.67
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a568"
+  },
+  "Name": "Olivia Donovan",
+  "\tEmail": "gregoryholmes@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "2891 Martin Plain Suite 197Melaniestad, NE 65650-8529",
+  "YearlyAmountSpent": 520.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a569"
+  },
+  "Name": "Cassandra Rosales",
+  "\tEmail": "jeffreydawson@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "9944 Trevor ExpresswayRobinsonstad, OR 34630-1840",
+  "YearlyAmountSpent": 453.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56a"
+  },
+  "Name": "Rosalie Cisneros",
+  "\tEmail": "rjohns@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "264 Derek Dam Apt. 680West Danielle, SD 91517-8611",
+  "YearlyAmountSpent": 496.65
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56b"
+  },
+  "Name": "Lorenzo Rasmussen",
+  "\tEmail": "john85@martin-morgan.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "USNV ReeseFPO AA 73568-0730",
+  "YearlyAmountSpent": 547.37
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56c"
+  },
+  "Name": "Jonty Oconnell",
+  "\tEmail": "vcoleman@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "7761 Hughes Curve Apt. 880Rodriguezberg, MN 96206-5317",
+  "YearlyAmountSpent": 616.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56d"
+  },
+  "Name": "Ricardo Tate",
+  "\tEmail": "floresarthur@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "12612 Johnson Skyway Suite 764Jessicaville, CT 14968-6590",
+  "YearlyAmountSpent": 507.21
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56e"
+  },
+  "Name": "Lulu Holden",
+  "\tEmail": "ryan36@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "5379 Rhonda Prairie Apt. 696Brownland, WA 87027",
+  "YearlyAmountSpent": 613.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a56f"
+  },
+  "Name": "Penelope Jacobs",
+  "\tEmail": "chris67@ryan.biz",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "716 Bush Greens Apt. 098Trevorton, MA 17817-8000",
+  "YearlyAmountSpent": 483.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a570"
+  },
+  "Name": "Brooklyn Tran",
+  "\tEmail": "katie25@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "6861 Lopez Fork Apt. 114South Jamiechester, DE 63993",
+  "YearlyAmountSpent": 540.26
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a571"
+  },
+  "Name": "Bradley Harrison",
+  "\tEmail": "kyang@diaz.org",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "223 Love Trail Suite 831Port Jeffrey, IN 46849",
+  "YearlyAmountSpent": 765.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a572"
+  },
+  "Name": "Harry Parsons",
+  "\tEmail": "tadams@contreras.info",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "049 Matthew TerraceLake Matthew, MS 20210",
+  "YearlyAmountSpent": 553.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a573"
+  },
+  "Name": "Kiera Berg",
+  "\tEmail": "craigcastro@burgess.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "65407 Warner Forges Suite 071New Lori, AZ 30132-2395",
+  "YearlyAmountSpent": 469.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a574"
+  },
+  "Name": "Jannat Calderon",
+  "\tEmail": "ellen24@anthony.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "PSC 3408, Box 3353APO AE 05113-1257",
+  "YearlyAmountSpent": 408.62
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a575"
+  },
+  "Name": "Harley Mcclain",
+  "\tEmail": "davisrobert@hicks-smith.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "95967 Pitts BurgsWest Sarah, MH 27817-5147",
+  "YearlyAmountSpent": 451.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a576"
+  },
+  "Name": "Erin Walls",
+  "\tEmail": "walkerlaura@peterson-yates.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "89154 Jones Stream Suite 311East Katie, NC 72742-1516",
+  "YearlyAmountSpent": 444.97
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a577"
+  },
+  "Name": "Myla Matthews",
+  "\tEmail": "marc54@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "Unit 6174 Box 1949DPO AP 27478",
+  "YearlyAmountSpent": 595.82
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a578"
+  },
+  "Name": "Brogan Thomas",
+  "\tEmail": "gregoryrussell@yahoo.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "55436 Devon PlainWest Kendraberg, HI 18826-3623",
+  "YearlyAmountSpent": 418.15
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a579"
+  },
+  "Name": "Darcie Rodgers",
+  "\tEmail": "williamsjohnny@ferguson.info",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "51920 Kent Junctions Apt. 352Walkerport, NY 11257-6647",
+  "YearlyAmountSpent": 534.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57a"
+  },
+  "Name": "Jayden Gentry",
+  "\tEmail": "haydenrebecca@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "10022 Wilson Orchard Suite 107Harrisstad, MH 99272",
+  "YearlyAmountSpent": 578.24
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57b"
+  },
+  "Name": "Franciszek Morales",
+  "\tEmail": "langmatthew@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "606 Perez DrivesMaryside, CO 94387-5877",
+  "YearlyAmountSpent": 478.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57c"
+  },
+  "Name": "Abbey Parker",
+  "\tEmail": "david43@richards.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "967 Andrew SpursMathistown, CO 28230",
+  "YearlyAmountSpent": 444.29
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57d"
+  },
+  "Name": "Amin Edwards",
+  "\tEmail": "paulkemp@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "PSC 9698, Box 5466APO AE 75496-3580",
+  "YearlyAmountSpent": 544.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57e"
+  },
+  "Name": "Angela Warren",
+  "\tEmail": "fbryant@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "284 Jennifer CurveLake Hollyberg, IN 05228",
+  "YearlyAmountSpent": 488.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a57f"
+  },
+  "Name": "Maximilian Newman",
+  "\tEmail": "kimberlyfrederick@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "71299 Jessica ShoalsEast Mark, IA 48085-1070",
+  "YearlyAmountSpent": 475.76
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a580"
+  },
+  "Name": "Meredith May",
+  "\tEmail": "sharon82@saunders.info",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "873 Clay Flats Apt. 810Lake Kyle, GU 48782",
+  "YearlyAmountSpent": 489.81
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a581"
+  },
+  "Name": "Eesa Holder",
+  "\tEmail": "fishermichael@ramos.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "565 Duarte Keys Suite 293Traceytown, IN 17797",
+  "YearlyAmountSpent": 462.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a582"
+  },
+  "Name": "Bryan Schmidt",
+  "\tEmail": "ilawson@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "19018 Christopher Neck Apt. 963Mcintoshchester, IA 66908-2456",
+  "YearlyAmountSpent": 596.43
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a583"
+  },
+  "Name": "Rafferty Lucas",
+  "\tEmail": "shafferdaniel@murphy-harris.info",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "USCGC ThomasFPO AP 43708-2468",
+  "YearlyAmountSpent": 338.32
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a584"
+  },
+  "Name": "Kathleen Soto",
+  "\tEmail": "stevenanderson@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "5401 Holt Corner Apt. 195Hannahstad, NC 86693-3595",
+  "YearlyAmountSpent": 533.51
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a585"
+  },
+  "Name": "Jasper Ibarra",
+  "\tEmail": "richard16@boyer-pratt.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "4568 Jeffrey Lane Apt. 512South Jason, WV 78116-0966",
+  "YearlyAmountSpent": 536.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a586"
+  },
+  "Name": "Preston White",
+  "\tEmail": "hyoung@jones.info",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "73469 Baker Forest Apt. 550Allenbury, TX 63791",
+  "YearlyAmountSpent": 487.38
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a587"
+  },
+  "Name": "Thomas Collins",
+  "\tEmail": "erik46@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "20711 Martin Harbors Apt. 582New Justinborough, AK 40834-2664",
+  "YearlyAmountSpent": 473.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a588"
+  },
+  "Name": "Juliet Fisher",
+  "\tEmail": "rojasmichael@wagner-thomas.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "7602 Scott Plaza Apt. 158Lake Amberland, VI 10516-3276",
+  "YearlyAmountSpent": 547.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a589"
+  },
+  "Name": "Kaylee Schaefer",
+  "\tEmail": "lance88@briggs.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "16001 Wilkins Island Suite 852Jonathanfort, AL 88541-7817",
+  "YearlyAmountSpent": 505.11
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58a"
+  },
+  "Name": "Malachy Farley",
+  "\tEmail": "anthony09@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "5118 Madden Views Apt. 738North Barryport, AS 28731-2270",
+  "YearlyAmountSpent": 449.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58b"
+  },
+  "Name": "Maisy Connolly",
+  "\tEmail": "audreyjohnson@rosales.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "USCGC NicholsonFPO AE 43987-0470",
+  "YearlyAmountSpent": 611
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58c"
+  },
+  "Name": "Margaret Randolph",
+  "\tEmail": "beth76@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "4522 Paul Heights Suite 851Adamsland, RI 08981",
+  "YearlyAmountSpent": 515.83
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58d"
+  },
+  "Name": "Liam Carlson",
+  "\tEmail": "larrywest@davis.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "21918 Gail GlensBarbershire, SD 45790-8387",
+  "YearlyAmountSpent": 439.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58e"
+  },
+  "Name": "Kate Fleming",
+  "\tEmail": "raylopez@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "3600 Amber Plains Suite 002North Jamesburgh, VA 07917",
+  "YearlyAmountSpent": 514.09
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a58f"
+  },
+  "Name": "Fabian Caldwell",
+  "\tEmail": "middletonrenee@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "71757 David Freeway Apt. 851West Carriefurt, NC 27106-3364",
+  "YearlyAmountSpent": 543.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a590"
+  },
+  "Name": "Shakira Li",
+  "\tEmail": "grichardson@ryan.info",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "79139 Boone CommonStewartstad, DE 63633-1812",
+  "YearlyAmountSpent": 521.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a591"
+  },
+  "Name": "Owain Maddox",
+  "\tEmail": "esmith@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "USS JohnsonFPO AE 35617-5384",
+  "YearlyAmountSpent": 614.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a592"
+  },
+  "Name": "Tobias Mclaughlin",
+  "\tEmail": "michael53@munoz.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "USNS MitchellFPO AP 92946",
+  "YearlyAmountSpent": 507.39
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a593"
+  },
+  "Name": "Livia Griffith",
+  "\tEmail": "jacqueline46@mcdonald-smith.biz",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "3794 Michael Forest Apt. 750New Stephenberg, MD 61004-0181",
+  "YearlyAmountSpent": 495.3
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a594"
+  },
+  "Name": "Nevaeh Reese",
+  "\tEmail": "briannasantana@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "88978 Noble CrestNorth Rosemouth, FM 53484-6689",
+  "YearlyAmountSpent": 518.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a595"
+  },
+  "Name": "Lenny Harding",
+  "\tEmail": "mark52@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "82227 Farmer Throughway Suite 266Leeborough, WV 35324",
+  "YearlyAmountSpent": 390.1
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a596"
+  },
+  "Name": "Anya Gomez",
+  "\tEmail": "acampbell@sanchez-velasquez.info",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "5791 Jessica CoveMckinneyborough, OK 64460-7536",
+  "YearlyAmountSpent": 420.74
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a597"
+  },
+  "Name": "Alisha Harrell",
+  "\tEmail": "qgarcia@williams.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "465 Kenneth Common Apt. 192North Tracy, WI 36024-8978",
+  "YearlyAmountSpent": 492.11
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a598"
+  },
+  "Name": "Bushra Lynch",
+  "\tEmail": "jenniferking@hess.net",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "06939 Jones NeckMariaview, VT 87641",
+  "YearlyAmountSpent": 410.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a599"
+  },
+  "Name": "Gethin Silva",
+  "\tEmail": "taylor91@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "3132 Willie HarborKaylafurt, FL 01107",
+  "YearlyAmountSpent": 497.51
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59a"
+  },
+  "Name": "Vera Hobbs",
+  "\tEmail": "afry@ford.biz",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "399 Jeremy Skyway Suite 377North Keithville, IL 55074",
+  "YearlyAmountSpent": 494.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59b"
+  },
+  "Name": "Szymon Campbell",
+  "\tEmail": "amandadean@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "66880 Mckinney HillsMatthewchester, MH 88386",
+  "YearlyAmountSpent": 378.33
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59c"
+  },
+  "Name": "Milo Mahoney",
+  "\tEmail": "brenda68@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "0377 Reed Via Apt. 169Alexandershire, MO 43498",
+  "YearlyAmountSpent": 570.45
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59d"
+  },
+  "Name": "Jamil Ray",
+  "\tEmail": "bakerdrew@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "39637 Griffin Plain Suite 691New Deborahview, MP 73870-3773",
+  "YearlyAmountSpent": 549.01
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59e"
+  },
+  "Name": "Kamil Lester",
+  "\tEmail": "connorlambert@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "931 Andrews HeightsSouth Shelley, NV 21850",
+  "YearlyAmountSpent": 459.29
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a59f"
+  },
+  "Name": "Arjun Reeves",
+  "\tEmail": "tknapp@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "15810 Karl PlainDavidville, TX 64072",
+  "YearlyAmountSpent": 492.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a0"
+  },
+  "Name": "Rabia Garner",
+  "\tEmail": "garcialisa@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "46079 Gonzalez LoafWilliamside, PA 72265",
+  "YearlyAmountSpent": 424.76
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a1"
+  },
+  "Name": "Zahraa Manning",
+  "\tEmail": "josephallen@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "3144 Jamie RestMaxwellville, NC 93749-1190",
+  "YearlyAmountSpent": 422.43
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a2"
+  },
+  "Name": "Shanice Atkinson",
+  "\tEmail": "hailey18@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "08079 Thompson VillageNorth Lukeborough, AL 16825",
+  "YearlyAmountSpent": 642.1
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a3"
+  },
+  "Name": "Teddy Mccullough",
+  "\tEmail": "whess@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "29282 Alexander StreetSouth Andrewmouth, MS 22041",
+  "YearlyAmountSpent": 413.37
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a4"
+  },
+  "Name": "Zayn Stanton",
+  "\tEmail": "josesims@hunter.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "8830 Debra Loaf Apt. 341Drakeville, ME 22340",
+  "YearlyAmountSpent": 479.23
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a5"
+  },
+  "Name": "Chelsea Galvan",
+  "\tEmail": "dtaylor@webb.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "18219 Jackson WellFosterton, MP 85302",
+  "YearlyAmountSpent": 593.08
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a6"
+  },
+  "Name": "Raheem Trevino",
+  "\tEmail": "briangonzales@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "572 Michelle Motorway Apt. 889New Craig, ND 17250",
+  "YearlyAmountSpent": 506.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a7"
+  },
+  "Name": "Trystan Rasmussen",
+  "\tEmail": "jared99@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "PSC 0811, Box 7054APO AA 91691",
+  "YearlyAmountSpent": 571.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a8"
+  },
+  "Name": "Troy Durham",
+  "\tEmail": "qchristian@martinez-allen.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "26737 Brooks RoadsVincentstad, VA 93089",
+  "YearlyAmountSpent": 576.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5a9"
+  },
+  "Name": "Mitchell Vang",
+  "\tEmail": "ngarcia@donaldson.info",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "662 Wells Stravenue Apt. 578South Kristaview, DC 49423-2452",
+  "YearlyAmountSpent": 576.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5aa"
+  },
+  "Name": "Gracie Weiss",
+  "\tEmail": "scastillo@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "0922 Gutierrez LoafWattsbury, OH 96315",
+  "YearlyAmountSpent": 514.24
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ab"
+  },
+  "Name": "Louise Horn",
+  "\tEmail": "joshua56@garcia.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "38154 Davis LocksLake Stevenfort, KY 86814-9222",
+  "YearlyAmountSpent": 495.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ac"
+  },
+  "Name": "Larry Pittman",
+  "\tEmail": "richard81@day.org",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "7955 Samantha Walk Suite 230North Luis, IL 44629",
+  "YearlyAmountSpent": 514.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ad"
+  },
+  "Name": "Stuart Bush",
+  "\tEmail": "jessica97@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "32202 Curtis Branch Apt. 411Port Brettmouth, KY 01192-0594",
+  "YearlyAmountSpent": 541.23
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ae"
+  },
+  "Name": "Ioan Robinson",
+  "\tEmail": "angelaphillips@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "102 Karen CourtNew Jameston, SC 57761-6570",
+  "YearlyAmountSpent": 516.83
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5af"
+  },
+  "Name": "Mason Lyons",
+  "\tEmail": "donald67@harrison.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "9759 Tammy Skyway Apt. 171Lake Debra, AS 95011",
+  "YearlyAmountSpent": 468.45
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b0"
+  },
+  "Name": "Alana Dunlap",
+  "\tEmail": "zmalone@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "PSC 6717, Box 7673APO AE 66950-0088",
+  "YearlyAmountSpent": 548.28
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b1"
+  },
+  "Name": "Bryan Kerr",
+  "\tEmail": "rlindsey@norris.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "581 Smith Prairie Suite 995Andersontown, AS 58802",
+  "YearlyAmountSpent": 431.62
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b2"
+  },
+  "Name": "Karim Romero",
+  "\tEmail": "lewisgabrielle@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "422 Rivers Springs Suite 221North Barbara, WI 51990-7596",
+  "YearlyAmountSpent": 552.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b3"
+  },
+  "Name": "Kirsten Bright",
+  "\tEmail": "kristina69@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "2859 Rodriguez ForksPort Josephtown, OH 13591-3011",
+  "YearlyAmountSpent": 573.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b4"
+  },
+  "Name": "Mildred Mccoy",
+  "\tEmail": "krista86@norton.net",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "0537 Rice VillageWest Kylieberg, NJ 19433-5090",
+  "YearlyAmountSpent": 452.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b5"
+  },
+  "Name": "Archibald Bridges",
+  "\tEmail": "chelsea05@hansen.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "7182 Stephen Fork Suite 150Port Laurachester, CO 99974-1961",
+  "YearlyAmountSpent": 542.71
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b6"
+  },
+  "Name": "Noor Stone",
+  "\tEmail": "jill33@allen.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "459 Amy BurgLake Travis, OR 53314",
+  "YearlyAmountSpent": 407.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b7"
+  },
+  "Name": "Theresa Salazar",
+  "\tEmail": "welchashlee@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "PSC 8159, Box 3254APO AP 71071-4890",
+  "YearlyAmountSpent": 482.35
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b8"
+  },
+  "Name": "Macauley Hogan",
+  "\tEmail": "dawnlewis@watkins.org",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "623 Erica FlatLake Josephland, MT 73514",
+  "YearlyAmountSpent": 529.23
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5b9"
+  },
+  "Name": "Julia Cuevas",
+  "\tEmail": "ashleychristopher@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "9271 Christopher PrairieDouglasshire, NM 18581",
+  "YearlyAmountSpent": 433.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ba"
+  },
+  "Name": "Elif Heath",
+  "\tEmail": "acontreras@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "88995 Edwards Row Suite 456North Jo, DE 02062-7953",
+  "YearlyAmountSpent": 476.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5bb"
+  },
+  "Name": "Chris Barry",
+  "\tEmail": "alvaradoadam@jones-thompson.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "35970 Holly KeyPort Frank, VT 78059-9385",
+  "YearlyAmountSpent": 440
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5bc"
+  },
+  "Name": "Albie English",
+  "\tEmail": "thomasgeorge@gonzalez-grant.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "93306 Donald GreensNew Christopherbury, SC 59447",
+  "YearlyAmountSpent": 448.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5bd"
+  },
+  "Name": "Nadia Oneill",
+  "\tEmail": "solischristina@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "43102 Russo View Suite 717Hollyport, SC 15344",
+  "YearlyAmountSpent": 472.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5be"
+  },
+  "Name": "Kareem Eaton",
+  "\tEmail": "jacksonboone@rubio.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "973 Marc PortsBrownstad, IN 48786-6700",
+  "YearlyAmountSpent": 463.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5bf"
+  },
+  "Name": "Dhruv Washington",
+  "\tEmail": "kaitlyn78@chang.com",
+  "Status": "Active",
+  "Weeks": 1,
+  "Address": "978 Bean SquareDeanburgh, OR 95149",
+  "YearlyAmountSpent": 350.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c0"
+  },
+  "Name": "Yasmin Mccarthy",
+  "\tEmail": "francisgeorge@thomas.org",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "27563 Vincent LakeAllenchester, DC 22159",
+  "YearlyAmountSpent": 460.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c1"
+  },
+  "Name": "Jane Callahan",
+  "\tEmail": "linda90@yoder.org",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "979 Alison Motorway Apt. 676North Frank, HI 55870-2651",
+  "YearlyAmountSpent": 505.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c2"
+  },
+  "Name": "Charis Henderson",
+  "\tEmail": "david79@lopez-montes.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "969 William ManorWest Sherry, MA 66282-2258",
+  "YearlyAmountSpent": 463.48
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c3"
+  },
+  "Name": "Willard Peters",
+  "\tEmail": "micheleblanchard@lopez-greene.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "555 Hunt Track Suite 307South Kristi, PA 73709",
+  "YearlyAmountSpent": 479.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c4"
+  },
+  "Name": "Maliha Moyer",
+  "\tEmail": "pmercado@rodriguez.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "811 Maria RunSanchezville, MI 04953",
+  "YearlyAmountSpent": 424.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c5"
+  },
+  "Name": "Mercedes Rollins",
+  "\tEmail": "james30@carter.biz",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "3604 Richard Junctions Suite 448Brownburgh, CO 64856-8238",
+  "YearlyAmountSpent": 465.89
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c6"
+  },
+  "Name": "Caroline Lloyd",
+  "\tEmail": "parkerkayla@miles.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "170 Andrew MewsNorth Susan, NM 85338-2426",
+  "YearlyAmountSpent": 426.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c7"
+  },
+  "Name": "Aleesha Beard",
+  "\tEmail": "alicia85@lee.com",
+  "Status": "Cancelled",
+  "Weeks": 6,
+  "Address": "14220 Carla Flat Suite 521Lake Matthew, DE 06183",
+  "YearlyAmountSpent": 684.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c8"
+  },
+  "Name": "Joe Andrade",
+  "\tEmail": "dominguezjacob@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "8594 Erica Manors Apt. 529Lake Miguel, MH 10652-9266",
+  "YearlyAmountSpent": 555.89
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5c9"
+  },
+  "Name": "Harmony Robbins",
+  "\tEmail": "ebrown@osborne.com",
+  "Status": "Active",
+  "Weeks": 6,
+  "Address": "4291 Nichols Fork Apt. 562Thomaschester, SC 08938-8769",
+  "YearlyAmountSpent": 657.02
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ca"
+  },
+  "Name": "Samuel Carpenter",
+  "\tEmail": "nathan86@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "748 Michael PlazaWest Billyside, UT 20799",
+  "YearlyAmountSpent": 595.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5cb"
+  },
+  "Name": "Charley Wilkinson",
+  "\tEmail": "aaron11@luna.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "672 Jesus Roads Apt. 443Thompsonland, WY 69228",
+  "YearlyAmountSpent": 503.98
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5cc"
+  },
+  "Name": "Archie Stevens",
+  "\tEmail": "fsnow@ellis.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "0272 Jones WayLake Angela, MP 97003-5793",
+  "YearlyAmountSpent": 586.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5cd"
+  },
+  "Name": "Stanley Malone",
+  "\tEmail": "asilva@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 7,
+  "Address": "USNV JohnsonFPO AP 19026",
+  "YearlyAmountSpent": 744.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ce"
+  },
+  "Name": "Douglas Flynn",
+  "\tEmail": "casey21@johnson.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "691 Johnson Field Apt. 510Michaelville, VI 78140",
+  "YearlyAmountSpent": 512.83
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5cf"
+  },
+  "Name": "Marc Barron",
+  "\tEmail": "campbellross@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "6218 Michael Station Apt. 982Salazarburgh, NJ 79955",
+  "YearlyAmountSpent": 528.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d0"
+  },
+  "Name": "Elisa Riggs",
+  "\tEmail": "blevinseric@stephens.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "PSC 3676, Box 1549APO AE 26130-7683",
+  "YearlyAmountSpent": 468.91
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d1"
+  },
+  "Name": "Maximillian Newman",
+  "\tEmail": "stevenking@patterson.com",
+  "Status": "Active",
+  "Weeks": 1,
+  "Address": "94730 Martin MountNew Matthew, VI 08142-6708",
+  "YearlyAmountSpent": 357.59
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d2"
+  },
+  "Name": "Ava-Rose Jefferson",
+  "\tEmail": "samuel94@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "5480 Vazquez Crossing Suite 825East Christopherland, PA 42104",
+  "YearlyAmountSpent": 536.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d3"
+  },
+  "Name": "Will Brandt",
+  "\tEmail": "johnsonpaul@keller-woodard.org",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "USCGC DodsonFPO AA 87781-3935",
+  "YearlyAmountSpent": 490.21
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d4"
+  },
+  "Name": "Violet England",
+  "\tEmail": "twilliams@gibbs.net",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "Unit 6678 Box 6628DPO AP 44369",
+  "YearlyAmountSpent": 550.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d5"
+  },
+  "Name": "Albert Buckley",
+  "\tEmail": "teresapacheco@salinas.biz",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "75805 Larry MillsEast Cristian, MH 53820",
+  "YearlyAmountSpent": 513.45
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d6"
+  },
+  "Name": "Brendan Garza",
+  "\tEmail": "allison80@carson-hansen.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "04311 Oconnor Park Apt. 415Kelleystad, ND 63064-8935",
+  "YearlyAmountSpent": 497.81
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d7"
+  },
+  "Name": "Alysha Torres",
+  "\tEmail": "turnerryan@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "770 Lewis Pike Apt. 869Phelpsport, PA 93969-4887",
+  "YearlyAmountSpent": 578.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d8"
+  },
+  "Name": "Ibraheem Glass",
+  "\tEmail": "walkererica@scott.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "86536 Barnes TrackSouth Kyle, MT 21570-5606",
+  "YearlyAmountSpent": 506.54
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5d9"
+  },
+  "Name": "Riya Velasquez",
+  "\tEmail": "mark94@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "586 Timothy Union Suite 592East Joseph, MO 81374",
+  "YearlyAmountSpent": 501.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5da"
+  },
+  "Name": "Tasneem Stephenson",
+  "\tEmail": "daniellecuevas@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "9287 Daniel Rest Apt. 608Allentown, SD 73050",
+  "YearlyAmountSpent": 421.97
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5db"
+  },
+  "Name": "Brendon Yoder",
+  "\tEmail": "gbarnes@gmail.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "8667 Suzanne Motorway Suite 241Spencechester, KY 74385-4618",
+  "YearlyAmountSpent": 439.89
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5dc"
+  },
+  "Name": "Sonia Kramer",
+  "\tEmail": "cody68@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "374 Dana JunctionsLangside, WI 36474",
+  "YearlyAmountSpent": 666.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5dd"
+  },
+  "Name": "Sidney Melton",
+  "\tEmail": "fischermonica@gmail.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "9847 Michael Plaza Suite 837Lake Christophershire, NV 87324-8427",
+  "YearlyAmountSpent": 298.76
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5de"
+  },
+  "Name": "Sofia Mercado",
+  "\tEmail": "brenda25@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "353 Jones Loaf Apt. 767South Michaelburgh, PR 16281-4840",
+  "YearlyAmountSpent": 465.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5df"
+  },
+  "Name": "Libbie Gamble",
+  "\tEmail": "david58@yahoo.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "6058 Thomas DivideMatthewland, PA 89442-8198",
+  "YearlyAmountSpent": 373.89
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e0"
+  },
+  "Name": "Aoife Lewis",
+  "\tEmail": "clifford76@johnson.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "8032 Hodge Circle Apt. 255Lake Jessicashire, OR 54914",
+  "YearlyAmountSpent": 532.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e1"
+  },
+  "Name": "Iestyn Meyer",
+  "\tEmail": "jacquelinehughes@bennett-branch.info",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "601 Ashley Loop Suite 162Port Benjaminview, DE 02456",
+  "YearlyAmountSpent": 554.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e2"
+  },
+  "Name": "Steve Wiggins",
+  "\tEmail": "victoria53@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "16329 Sara Neck Apt. 463Bryanside, TX 62329",
+  "YearlyAmountSpent": 537.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e3"
+  },
+  "Name": "Rohan Coleman",
+  "\tEmail": "cunninghamkyle@ellis-parker.org",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "449 Williamson Lakes Apt. 118Travisville, AK 06848-0177",
+  "YearlyAmountSpent": 501.1
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e4"
+  },
+  "Name": "Eesa Cervantes",
+  "\tEmail": "jjones@yahoo.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "047 Carla LocksCoreymouth, AR 98066",
+  "YearlyAmountSpent": 517.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e5"
+  },
+  "Name": "Syeda Lee",
+  "\tEmail": "michaelferguson@torres-miles.net",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "757 Amber Gateway Apt. 787New Stephaniechester, OR 61576-6056",
+  "YearlyAmountSpent": 557.53
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e6"
+  },
+  "Name": "Thea Mcleod",
+  "\tEmail": "crawforderik@price.org",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "5183 Michael RampEast Lukeburgh, FL 93972",
+  "YearlyAmountSpent": 493.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e7"
+  },
+  "Name": "Brooklyn O'Connor",
+  "\tEmail": "jlawson@mccarthy.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "0127 Morgan Fields Apt. 080Thompsonfurt, ME 01160-7043",
+  "YearlyAmountSpent": 452.12
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e8"
+  },
+  "Name": "Jayson Goodman",
+  "\tEmail": "marshchristopher@zimmerman-villegas.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "667 Stephanie Lake Apt. 658Marthashire, NC 11815-2307",
+  "YearlyAmountSpent": 577.27
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5e9"
+  },
+  "Name": "Kelvin Levy",
+  "\tEmail": "oolson@collins.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "07867 Horn LakeWest Teresatown, VT 64387-1228",
+  "YearlyAmountSpent": 485.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ea"
+  },
+  "Name": "Cian Archer",
+  "\tEmail": "isaiahcampbell@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "55414 Ramirez Union Apt. 614West Crystal, CA 03845-2631",
+  "YearlyAmountSpent": 425.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5eb"
+  },
+  "Name": "Shreya Navarro",
+  "\tEmail": "kcannon@alvarez-cline.info",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "55479 Peters Field Apt. 702North Micheleberg, PR 45063",
+  "YearlyAmountSpent": 537.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ec"
+  },
+  "Name": "Casey Cuevas",
+  "\tEmail": "nielsencarmen@harrell.net",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "2491 Yates Crest Suite 316Connieville, FL 92080-0819",
+  "YearlyAmountSpent": 524.64
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ed"
+  },
+  "Name": "Freddie Reynolds",
+  "\tEmail": "efreeman@moore.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "223 Powell RidgesEast Richardtown, RI 90715-2178",
+  "YearlyAmountSpent": 478.89
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ee"
+  },
+  "Name": "Jaydon Donnelly",
+  "\tEmail": "roblessarah@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "022 Taylor Mews Suite 692Hallberg, NJ 53614",
+  "YearlyAmountSpent": 612.39
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ef"
+  },
+  "Name": "Mariyah Munoz",
+  "\tEmail": "christopherhaas@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "56674 Melanie FlatsSchneiderberg, IN 66532",
+  "YearlyAmountSpent": 476.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f0"
+  },
+  "Name": "Aarav Lane",
+  "\tEmail": "ethomas@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "1279 Douglas MountainsPort Christopherberg, RI 32811-8325",
+  "YearlyAmountSpent": 505.12
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f1"
+  },
+  "Name": "Sameer Hancock",
+  "\tEmail": "wevans@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "222 Jason ParkDominguezshire, NC 98241",
+  "YearlyAmountSpent": 545.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f2"
+  },
+  "Name": "Dawud Schaefer",
+  "\tEmail": "patrickorr@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "6009 Heather ParkHowardhaven, SD 51705-2993",
+  "YearlyAmountSpent": 434.02
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f3"
+  },
+  "Name": "Abraham Phillips",
+  "\tEmail": "mary84@edwards.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "19123 Craig Isle Apt. 719Millsmouth, SC 94194",
+  "YearlyAmountSpent": 424.68
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f4"
+  },
+  "Name": "Safia Rodgers",
+  "\tEmail": "longwilliam@gmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "16068 Kelly ParksWrightside, NH 21447",
+  "YearlyAmountSpent": 352.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f5"
+  },
+  "Name": "Denise Slater",
+  "\tEmail": "lisagutierrez@johnson-herring.net",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "89300 Amber Centers Apt. 879Victoriaton, VT 98394",
+  "YearlyAmountSpent": 662.96
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f6"
+  },
+  "Name": "Gerald Collier",
+  "\tEmail": "david81@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "1576 Lane ShoalRogerton, PR 63867-3426",
+  "YearlyAmountSpent": 560.56
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f7"
+  },
+  "Name": "Sally Parsons",
+  "\tEmail": "jacksonking@mccormick.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "120 Micheal Fort Apt. 762East Patrickbury, WY 65946",
+  "YearlyAmountSpent": 467.5
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f8"
+  },
+  "Name": "Lee Anthony",
+  "\tEmail": "jessica04@christian-riley.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "338 Graham Loaf Suite 236East Toddton, FM 43566-4238",
+  "YearlyAmountSpent": 504.87
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5f9"
+  },
+  "Name": "Gracie Gilmore",
+  "\tEmail": "simmonsmartin@hardy.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "2302 Joshua ParkMillerbury, WA 30239-8144",
+  "YearlyAmountSpent": 590.56
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5fa"
+  },
+  "Name": "Gladys Obrien",
+  "\tEmail": "michellejohnson@sanders-rodriguez.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "70562 Gonzalez StravenueElizabethland, WI 40700-9149",
+  "YearlyAmountSpent": 443.97
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5fb"
+  },
+  "Name": "Ameera Wolf",
+  "\tEmail": "tylerhernandez@barton.info",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "7613 Miguel Knoll Suite 762West Katherine, WV 19406",
+  "YearlyAmountSpent": 392.5
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5fc"
+  },
+  "Name": "Zakir Heath",
+  "\tEmail": "connerjoseph@gmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "981 David SquareNew Jacquelinetown, AK 66018-4092",
+  "YearlyAmountSpent": 568.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5fd"
+  },
+  "Name": "Saskia Berger",
+  "\tEmail": "jeffrey54@mcdonald-williams.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "297 Francis ValleySouth Lindsey, NY 13669-5367",
+  "YearlyAmountSpent": 712.4
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5fe"
+  },
+  "Name": "Elisha Mcintyre",
+  "\tEmail": "hevans@kelly-nunez.org",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "Unit 4065 Box 2267DPO AE 69180-7372",
+  "YearlyAmountSpent": 413.3
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a5ff"
+  },
+  "Name": "Talha Brown",
+  "\tEmail": "lewiskendra@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "988 Matthew PlazaLake Jacobshire, AL 37889",
+  "YearlyAmountSpent": 562.08
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a600"
+  },
+  "Name": "Honey Cochran",
+  "\tEmail": "freemantina@cannon.org",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "870 Dennis ThroughwayWilsonport, PW 12658",
+  "YearlyAmountSpent": 412.01
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a601"
+  },
+  "Name": "Marvin Fleming",
+  "\tEmail": "wagnerbrian@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "50593 Wells Roads Apt. 110South Amy, MI 06969-2026",
+  "YearlyAmountSpent": 468.67
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a602"
+  },
+  "Name": "Lilli Horton",
+  "\tEmail": "melissa08@nelson.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "15863 Harrington Glens Suite 012Marystad, LA 50652-8210",
+  "YearlyAmountSpent": 496.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a603"
+  },
+  "Name": "Conner Bowers",
+  "\tEmail": "karina59@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "9580 Clark Trail Suite 687Williamsside, FM 57367",
+  "YearlyAmountSpent": 548.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a604"
+  },
+  "Name": "Mathew Byrd",
+  "\tEmail": "baldwinbryan@estrada-silva.biz",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "1470 Kathleen PassSouth Christopherberg, SD 22850",
+  "YearlyAmountSpent": 536.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a605"
+  },
+  "Name": "Shannon Mcmillan",
+  "\tEmail": "audreyguerrero@carey.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "1995 Susan Locks Suite 760East Cheryl, AR 37103-5176",
+  "YearlyAmountSpent": 558.43
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a606"
+  },
+  "Name": "Shania Burgess",
+  "\tEmail": "drew29@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "20888 Erin ViaGrahamville, NH 72913-6101",
+  "YearlyAmountSpent": 357.86
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a607"
+  },
+  "Name": "Arianna Cantrell",
+  "\tEmail": "michael00@yahoo.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "03065 Henry Courts Suite 443Derekstad, VT 88473",
+  "YearlyAmountSpent": 529.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a608"
+  },
+  "Name": "Ciara Key",
+  "\tEmail": "jgray@khan-allen.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "1416 Rachel CrescentWest Laurieside, IL 81119-7229",
+  "YearlyAmountSpent": 387.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a609"
+  },
+  "Name": "Adelaide Cisneros",
+  "\tEmail": "bushsusan@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "20618 David SquareGayland, HI 78719-9628",
+  "YearlyAmountSpent": 528.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60a"
+  },
+  "Name": "Rebekah Pace",
+  "\tEmail": "charris@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "2781 Matthew Wells Apt. 569Potterview, KS 50763-8282",
+  "YearlyAmountSpent": 420.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60b"
+  },
+  "Name": "John Horne",
+  "\tEmail": "longphillip@yahoo.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "13044 Woods HeightsAndreamouth, ND 52317-6007",
+  "YearlyAmountSpent": 496.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60c"
+  },
+  "Name": "Omar Valenzuela",
+  "\tEmail": "madisonalexander@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "791 Allen Trafficway Suite 776Christopherland, DC 41460",
+  "YearlyAmountSpent": 519.37
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60d"
+  },
+  "Name": "Jessie Odling",
+  "\tEmail": "mfoster@brown-white.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "36192 Ho SpringNew Michael, RI 65851-6369",
+  "YearlyAmountSpent": 591.44
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60e"
+  },
+  "Name": "Hugo Jones",
+  "\tEmail": "sanchezkara@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "40494 Robert ParkHeatherside, IL 70364",
+  "YearlyAmountSpent": 502.41
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a60f"
+  },
+  "Name": "Frederic Hilton",
+  "\tEmail": "floresbradley@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "446 Daniel Rest Suite 644Port Matthewhaven, MN 89465",
+  "YearlyAmountSpent": 604.33
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a610"
+  },
+  "Name": "Mikayla Shannon",
+  "\tEmail": "lamryan@curtis-garcia.net",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "96393 Joshua RapidsJonesview, VA 58733",
+  "YearlyAmountSpent": 555.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a611"
+  },
+  "Name": "Nate Hood",
+  "\tEmail": "alexandra26@summers-davis.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "Unit 7032 Box 7016DPO AE 44749-2992",
+  "YearlyAmountSpent": 256.67
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a612"
+  },
+  "Name": "Mario Macias",
+  "\tEmail": "ocortez@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "4800 Ashley Spur Apt. 347Dannyfort, GA 23352",
+  "YearlyAmountSpent": 547.11
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a613"
+  },
+  "Name": "Isobella Tate",
+  "\tEmail": "melinda39@morton.info",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "13693 Cox Falls Apt. 693Padillaview, PW 28998-0386",
+  "YearlyAmountSpent": 461.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a614"
+  },
+  "Name": "Lowri Lin",
+  "\tEmail": "lisa94@jackson.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "40288 Stephens Corner Apt. 221West Stephanie, OK 55617-4332",
+  "YearlyAmountSpent": 458.38
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a615"
+  },
+  "Name": "Jesse Larson",
+  "\tEmail": "lucastaylor@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "63872 Chavez LodgeDanielton, NJ 85847",
+  "YearlyAmountSpent": 436.28
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a616"
+  },
+  "Name": "Kaiden Dalton",
+  "\tEmail": "apark@walsh-obrien.net",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "28942 Bradford CrescentNew Morganfurt, MD 77162-0478",
+  "YearlyAmountSpent": 532.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a617"
+  },
+  "Name": "Garfield Lewis",
+  "\tEmail": "dominguezmaria@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "1768 Rosales Ford Apt. 793Lake Markbury, SC 31567",
+  "YearlyAmountSpent": 512.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a618"
+  },
+  "Name": "Brodie O'Gallagher",
+  "\tEmail": "jimmy11@hardin.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "496 Bush Turnpike Apt. 674Donnabury, OR 32596-0079",
+  "YearlyAmountSpent": 630.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a619"
+  },
+  "Name": "Alisha Bright",
+  "\tEmail": "patriciajackson@jenkins.info",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "981 Matthew Valley Apt. 621Lake Tracyburgh, NM 33288-1364",
+  "YearlyAmountSpent": 463.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61a"
+  },
+  "Name": "Rowan Hayes",
+  "\tEmail": "rayvanessa@fischer.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "2583 Mark SpringsLake Robert, AL 40928",
+  "YearlyAmountSpent": 493.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61b"
+  },
+  "Name": "Chelsey Robertson",
+  "\tEmail": "gharrison@davis.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "04140 Cameron Brooks Apt. 724South Laurenberg, HI 08562",
+  "YearlyAmountSpent": 501.21
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61c"
+  },
+  "Name": "Stuart Chapman",
+  "\tEmail": "alexandermichael@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "2086 Lisa ViewOrtegabury, MI 43544",
+  "YearlyAmountSpent": 501.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61d"
+  },
+  "Name": "Susan Duncan",
+  "\tEmail": "christopher66@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "388 Kelly PikeWest Jeffery, DE 44039-7785",
+  "YearlyAmountSpent": 376.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61e"
+  },
+  "Name": "Tess Stevenson",
+  "\tEmail": "archeremily@baldwin.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "USCGC HernandezFPO AE 53064",
+  "YearlyAmountSpent": 421.33
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a61f"
+  },
+  "Name": "Michael Mooney",
+  "\tEmail": "hornesteven@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "91425 Roy TrailRivaston, NE 34949-2588",
+  "YearlyAmountSpent": 538.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a620"
+  },
+  "Name": "Charis Rubio",
+  "\tEmail": "william28@gmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "16763 Melissa Creek Suite 367North Keithland, PW 29458",
+  "YearlyAmountSpent": 398.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a621"
+  },
+  "Name": "Nell Holder",
+  "\tEmail": "karenosborne@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "81814 Pratt Squares Suite 460North Robert, GU 77741-1307",
+  "YearlyAmountSpent": 571.47
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a622"
+  },
+  "Name": "Rio Foley",
+  "\tEmail": "chansen@holt.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "2380 Fisher Neck Suite 233Brianland, AZ 34453-0625",
+  "YearlyAmountSpent": 451.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a623"
+  },
+  "Name": "Harri Stephens",
+  "\tEmail": "hallthomas@lane.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "22630 Bell Centers Suite 030North Danielport, FM 31756",
+  "YearlyAmountSpent": 490.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a624"
+  },
+  "Name": "Sasha Wilkinson",
+  "\tEmail": "taylorkimberly@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "0030 Mathis Square Suite 154South Jadehaven, AR 33997-4450",
+  "YearlyAmountSpent": 591.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a625"
+  },
+  "Name": "Leona Hoover",
+  "\tEmail": "clester@yahoo.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "76778 Underwood KnollNew Gregory, ID 57323",
+  "YearlyAmountSpent": 409.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a626"
+  },
+  "Name": "Safa Fields",
+  "\tEmail": "pvega@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "61629 Johnson UnderpassNew Eric, MI 92352-5044",
+  "YearlyAmountSpent": 563.45
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a627"
+  },
+  "Name": "Aiza Roth",
+  "\tEmail": "vmartin@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "30242 Rubio ForestPort Kyleland, VA 18339-5779",
+  "YearlyAmountSpent": 647.62
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a628"
+  },
+  "Name": "Meredith Martin",
+  "\tEmail": "andreperez@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "17463 George PortsEast Julianborough, WY 68291",
+  "YearlyAmountSpent": 448.34
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a629"
+  },
+  "Name": "Ann Garza",
+  "\tEmail": "anntaylor@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "PSC 1634, Box 8167APO AA 49814",
+  "YearlyAmountSpent": 518.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62a"
+  },
+  "Name": "Sadie House",
+  "\tEmail": "hickmanelizabeth@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "12641 Greer Track Apt. 183North Mitchell, IA 77991-6276",
+  "YearlyAmountSpent": 523.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62b"
+  },
+  "Name": "Robin Hobbs",
+  "\tEmail": "halljohn@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "311 Savannah Ramp Suite 245Carlsonbury, LA 08453-6035",
+  "YearlyAmountSpent": 393.86
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62c"
+  },
+  "Name": "Eshal Ayers",
+  "\tEmail": "cohensean@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "3751 Green LoafNew Julia, VT 20897",
+  "YearlyAmountSpent": 426.15
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62d"
+  },
+  "Name": "Darren Gallegos",
+  "\tEmail": "jmartinez@anderson.org",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "14889 Page PrairieDennisville, NV 27982-4210",
+  "YearlyAmountSpent": 503.39
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62e"
+  },
+  "Name": "Cruz Merrill",
+  "\tEmail": "cbrady@gonzalez-miller.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "193 Ashley Plaza Suite 706Hernandezport, WV 71270-7338",
+  "YearlyAmountSpent": 482.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a62f"
+  },
+  "Name": "Timothy Gardner",
+  "\tEmail": "pkline@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "PSC 6338, Box 7637APO AA 22066",
+  "YearlyAmountSpent": 524.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a630"
+  },
+  "Name": "Alejandro Pugh",
+  "\tEmail": "martha91@garrison.net",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "360 Albert SpringSouth Tylerbury, VA 92641-9077",
+  "YearlyAmountSpent": 574.65
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a631"
+  },
+  "Name": "Farrah Kirk",
+  "\tEmail": "maureenlopez@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "82537 Alice CentersGregland, OR 71749",
+  "YearlyAmountSpent": 574.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a632"
+  },
+  "Name": "Hattie Farmer",
+  "\tEmail": "russellbaldwin@ferrell.info",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "295 Michael Keys Apt. 706Ericfurt, KS 09476",
+  "YearlyAmountSpent": 660.43
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a633"
+  },
+  "Name": "Denis Simon",
+  "\tEmail": "amandastanley@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "38528 Jerry Valleys Suite 027Jonesstad, NY 74787-2691",
+  "YearlyAmountSpent": 375.4
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a634"
+  },
+  "Name": "Rachel Dotson",
+  "\tEmail": "george02@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "3286 Lynch FieldHenrychester, RI 41833-7902",
+  "YearlyAmountSpent": 640.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a635"
+  },
+  "Name": "Keaton Blackwell",
+  "\tEmail": "swilliams@ball-arroyo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "450 Samantha ValleysCollinsborough, KS 37205-9891",
+  "YearlyAmountSpent": 514.01
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a636"
+  },
+  "Name": "Taya Ferrell",
+  "\tEmail": "taylorjared@foster.net",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "601 Mitchell Estates Suite 922Port Daniel, WV 83595",
+  "YearlyAmountSpent": 376.5
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a637"
+  },
+  "Name": "Iris Haas",
+  "\tEmail": "keith13@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "81830 Katie SquaresPort Austinland, FL 73522-0761",
+  "YearlyAmountSpent": 484.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a638"
+  },
+  "Name": "Eoin Le",
+  "\tEmail": "schmidtdenise@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "06392 Matthew Viaduct Suite 000Lake Ronald, NY 45787-0181",
+  "YearlyAmountSpent": 614.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a639"
+  },
+  "Name": "Bernice Cline",
+  "\tEmail": "jasmin20@salas.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "634 Nancy Shoals Suite 241South Barry, AR 52307",
+  "YearlyAmountSpent": 567.48
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63a"
+  },
+  "Name": "Abbas Waters",
+  "\tEmail": "christophermorrison@mcguire-carter.biz",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "90089 Eric WellNicoleside, MT 95918",
+  "YearlyAmountSpent": 554
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63b"
+  },
+  "Name": "Jessica Dejesus",
+  "\tEmail": "deborah51@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "4190 Shelton HarborsNorth Christopher, RI 60962",
+  "YearlyAmountSpent": 399.98
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63c"
+  },
+  "Name": "Kade Underwood",
+  "\tEmail": "melindahartman@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "3761 Jared MountainNicholasport, WY 51181",
+  "YearlyAmountSpent": 479.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63d"
+  },
+  "Name": "Floyd Quinn",
+  "\tEmail": "sharper@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "239 Bush Fall Apt. 906Riveraville, KY 88906-3319",
+  "YearlyAmountSpent": 585.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63e"
+  },
+  "Name": "Isabella Weaver",
+  "\tEmail": "jessicabrewer@simmons.net",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "5052 Mccoy Passage Apt. 328Teresaport, FM 97139",
+  "YearlyAmountSpent": 541
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a63f"
+  },
+  "Name": "Oliwier Noble",
+  "\tEmail": "beckycarson@jones-brown.biz",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "78787 Mitchell LightsMatthewville, AZ 30310-0130",
+  "YearlyAmountSpent": 628.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a640"
+  },
+  "Name": "Jorge Spencer",
+  "\tEmail": "jennifer24@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "46954 Melissa CornerNorth Amanda, LA 34844",
+  "YearlyAmountSpent": 582.49
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a641"
+  },
+  "Name": "Omari Parrish",
+  "\tEmail": "jeremy00@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "45442 Barber Key Apt. 882South Jaclyn, NM 24367-3001",
+  "YearlyAmountSpent": 640.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a642"
+  },
+  "Name": "Karen Reyes",
+  "\tEmail": "wellsjuan@schroeder.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "0338 Francis JunctionLake Alexstad, NH 14302",
+  "YearlyAmountSpent": 446.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a643"
+  },
+  "Name": "Elena Reed",
+  "\tEmail": "gregorystewart@hotmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "232 John Haven Suite 456Johnsonhaven, VT 90106-0173",
+  "YearlyAmountSpent": 570.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a644"
+  },
+  "Name": "Zakariya Newton",
+  "\tEmail": "tammyjones@griffin.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "0859 Audrey IsleSouth Zachary, AS 09138",
+  "YearlyAmountSpent": 423.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a645"
+  },
+  "Name": "Marion Ayala",
+  "\tEmail": "djohnson@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "5358 Stephen Parkway Suite 894Kimview, MN 17436-4528",
+  "YearlyAmountSpent": 616.66
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a646"
+  },
+  "Name": "Aimee Krueger",
+  "\tEmail": "kenneth27@smith.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "721 Robert Viaduct Apt. 052Lake Olivia, MO 93807",
+  "YearlyAmountSpent": 530.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a647"
+  },
+  "Name": "Ffion Oconnor",
+  "\tEmail": "johnathan33@yahoo.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "836 Amy VillagesHannahside, RI 09207-2616",
+  "YearlyAmountSpent": 442.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a648"
+  },
+  "Name": "Zohaib Barrera",
+  "\tEmail": "carrillojacob@perry-larsen.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "909 Hicks MountainsGabriellaport, MD 33121",
+  "YearlyAmountSpent": 511.98
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a649"
+  },
+  "Name": "Moses Leach",
+  "\tEmail": "greenelizabeth@edwards.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "54051 Jenkins ViewEast Danielshire, IN 32905-7784",
+  "YearlyAmountSpent": 560.44
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64a"
+  },
+  "Name": "Jason White",
+  "\tEmail": "denisemorrow@johnson-james.net",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "24458 Hudson SquareHallside, PA 68038",
+  "YearlyAmountSpent": 475.26
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64b"
+  },
+  "Name": "OliveDrab",
+  "\tEmail": "wandaphillips@leonard.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "149 Monica Vista Apt. 908Jasonberg, TX 19632-8886",
+  "YearlyAmountSpent": 374.27
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64c"
+  },
+  "Name": "Rhys Berger",
+  "\tEmail": "zachary94@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "99902 Scott RoadJoyton, MT 46760-7400",
+  "YearlyAmountSpent": 463.59
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64d"
+  },
+  "Name": "Harriet Benson",
+  "\tEmail": "ppowell@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "74260 Carly Mews Suite 703Jonesberg, OR 39594",
+  "YearlyAmountSpent": 471.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64e"
+  },
+  "Name": "Kiera Torres",
+  "\tEmail": "bhill@pierce-kane.info",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "3324 Branch Squares Suite 221Riddleton, OK 34594",
+  "YearlyAmountSpent": 626.02
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a64f"
+  },
+  "Name": "Samantha Sloan",
+  "\tEmail": "matthewgraves@mills-shaffer.com",
+  "Status": "Cancelled",
+  "Weeks": 1,
+  "Address": "66636 Jason ParkwayKellyside, NV 67033",
+  "YearlyAmountSpent": 432.47
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a650"
+  },
+  "Name": "Mildred Moyer",
+  "\tEmail": "nwagner@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "Unit 2079 Box 7792DPO AP 47668",
+  "YearlyAmountSpent": 356.62
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a651"
+  },
+  "Name": "Jeffrey Rangel",
+  "\tEmail": "jamesfaulkner@hoffman-wolfe.org",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "Unit 0474 Box 0661DPO AP 48938-3469",
+  "YearlyAmountSpent": 467.43
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a652"
+  },
+  "Name": "Liam Waller",
+  "\tEmail": "phillipscarrie@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "625 Andrew LocksMadisonside, AZ 74068",
+  "YearlyAmountSpent": 503.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a653"
+  },
+  "Name": "Shanice Thornton",
+  "\tEmail": "samantha84@cortez.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "960 Miller UnionEast Virginiastad, MS 74191-2346",
+  "YearlyAmountSpent": 378.47
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a654"
+  },
+  "Name": "Milton Pugh",
+  "\tEmail": "edward29@knapp.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "4029 Gerald CapeSouth Laurenborough, SC 19130-5133",
+  "YearlyAmountSpent": 584.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a655"
+  },
+  "Name": "Jeremy Shaw",
+  "\tEmail": "hannahgilbert@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "6961 Mary Stravenue Suite 857Hilltown, TX 52813-7703",
+  "YearlyAmountSpent": 451.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a656"
+  },
+  "Name": "Honor Meza",
+  "\tEmail": "lschroeder@gmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "93101 Shannon CommonSouth Destiny, ND 30379-2855",
+  "YearlyAmountSpent": 557.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a657"
+  },
+  "Name": "Eleni Flores",
+  "\tEmail": "thomaswendy@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "449 Amanda TunnelJoshuahaven, CO 15377",
+  "YearlyAmountSpent": 432.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a658"
+  },
+  "Name": "Kendra Cain",
+  "\tEmail": "fuenteskathryn@schmidt-johnson.org",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "839 Heather CliffSouth Blake, SC 90412",
+  "YearlyAmountSpent": 506.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a659"
+  },
+  "Name": "Dawid Richardson",
+  "\tEmail": "melissa08@rowe.net",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "13799 Cortez Inlet Suite 733East Stevenshire, AL 32757",
+  "YearlyAmountSpent": 510.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65a"
+  },
+  "Name": "Lucas Baxter",
+  "\tEmail": "bradleysmith@barber.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "581 Gilmore PortHeatherville, MS 20879",
+  "YearlyAmountSpent": 587.57
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65b"
+  },
+  "Name": "Riya Woodard",
+  "\tEmail": "morganorozco@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "0001 Mack MillNorth Jennifer, NE 42021-5936",
+  "YearlyAmountSpent": 282.47
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65c"
+  },
+  "Name": "Iestyn Odom",
+  "\tEmail": "johnsonhannah@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "634 Robert Hill Apt. 800Coxtown, OK 32430",
+  "YearlyAmountSpent": 473.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65d"
+  },
+  "Name": "Jay Li",
+  "\tEmail": "javier02@landry.net",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "Unit 7029 Box 3429DPO AE 56975",
+  "YearlyAmountSpent": 489.91
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65e"
+  },
+  "Name": "Isha Slater",
+  "\tEmail": "lmalone@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "USS BeasleyFPO AP 50556-7615",
+  "YearlyAmountSpent": 541.97
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a65f"
+  },
+  "Name": "Bruno Osborn",
+  "\tEmail": "brandon77@richardson.com",
+  "Status": "Cancelled",
+  "Weeks": 1,
+  "Address": "109 Jessica ManorNorth Patriciashire, PR 84726",
+  "YearlyAmountSpent": 266.09
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a660"
+  },
+  "Name": "Sylvia Vang",
+  "\tEmail": "bhamilton@shaw.biz",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "036 Mary Drive Apt. 581Port Brandytown, FL 66143",
+  "YearlyAmountSpent": 494.69
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a661"
+  },
+  "Name": "Harry Randolph",
+  "\tEmail": "randyrobinson@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 6,
+  "Address": "14548 Hayes Isle Apt. 436Garciaville, IN 65366",
+  "YearlyAmountSpent": 689.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a662"
+  },
+  "Name": "Mohamed Knight",
+  "\tEmail": "ecruz@yahoo.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "08111 Barry HighwayBentonberg, GU 13706",
+  "YearlyAmountSpent": 387.53
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a663"
+  },
+  "Name": "Chelsea Ramirez",
+  "\tEmail": "wrightdanielle@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "508 May HighwayPort Jacobview, MN 31932",
+  "YearlyAmountSpent": 441.9
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a664"
+  },
+  "Name": "Aliyah Mcleod",
+  "\tEmail": "deandanny@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "9781 Lopez Spurs Apt. 300Fitzgeraldborough, MA 89035-4317",
+  "YearlyAmountSpent": 604.84
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a665"
+  },
+  "Name": "Ciaran Holmes",
+  "\tEmail": "dblair@gmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "190 Kelley BurgWest Juliaport, IA 35826-8163",
+  "YearlyAmountSpent": 302.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a666"
+  },
+  "Name": "Danny Bolton",
+  "\tEmail": "veronicapruitt@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "Unit 7502 Box 8345DPO AE 53747",
+  "YearlyAmountSpent": 479.61
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a667"
+  },
+  "Name": "Tobias Macias",
+  "\tEmail": "davischristina@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "49352 Avila Terrace Suite 624Amandaland, GA 99736",
+  "YearlyAmountSpent": 506.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a668"
+  },
+  "Name": "Kirsty Cruz",
+  "\tEmail": "douglasdunlap@boone-rose.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "093 Larson PortsWest Kathryn, OK 91243",
+  "YearlyAmountSpent": 319.93
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a669"
+  },
+  "Name": "Kabir Crane",
+  "\tEmail": "david28@wallace-hill.org",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "43382 Heather MeadowsNew Lisaburgh, WI 19151-0302",
+  "YearlyAmountSpent": 528.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66a"
+  },
+  "Name": "Kingsley York",
+  "\tEmail": "williammoore@rose.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "686 Baker Fords Suite 893East John, IL 50171-9547",
+  "YearlyAmountSpent": 610.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66b"
+  },
+  "Name": "Emmy Kidd",
+  "\tEmail": "angela25@walker.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "456 Eric ViewsNorth Amanda, MS 98876-3102",
+  "YearlyAmountSpent": 584.11
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66c"
+  },
+  "Name": "Lori Bush",
+  "\tEmail": "arice@reynolds.info",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "740 Marshall SquaresDavidbury, AL 94251-0846",
+  "YearlyAmountSpent": 466.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66d"
+  },
+  "Name": "Daniella Dixon",
+  "\tEmail": "adam75@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "9991 Macdonald SquaresVasquezborough, WY 73586-4597",
+  "YearlyAmountSpent": 404.82
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66e"
+  },
+  "Name": "Rosalind Grant",
+  "\tEmail": "charlesgutierrez@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "363 Kathleen UnderpassAshleyside, PR 98964",
+  "YearlyAmountSpent": 564.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a66f"
+  },
+  "Name": "Kyla O'Doherty",
+  "\tEmail": "codyandrews@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "63010 Reyes Creek Apt. 569West Catherinetown, MN 67491-6816",
+  "YearlyAmountSpent": 596.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a670"
+  },
+  "Name": "Esme Roberson",
+  "\tEmail": "wheelernancy@hernandez.com",
+  "Status": "Cancelled",
+  "Weeks": 1,
+  "Address": "66340 Michael Lane Suite 878West Brian, LA 69137-1147",
+  "YearlyAmountSpent": 368.65
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a671"
+  },
+  "Name": "Susan Smith",
+  "\tEmail": "drew27@ryan-thompson.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "4475 Lopez Stravenue Apt. 690Smithchester, NV 84347",
+  "YearlyAmountSpent": 542.41
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a672"
+  },
+  "Name": "Jennie Jennings",
+  "\tEmail": "suzanne63@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "229 Eric MountainsNew Caleb, PA 00396",
+  "YearlyAmountSpent": 478.26
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a673"
+  },
+  "Name": "Maxim Phillips",
+  "\tEmail": "mitchellscott@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "3976 Tom Streets Suite 438Port Davidtown, AL 55334-2369",
+  "YearlyAmountSpent": 473.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a674"
+  },
+  "Name": "Monty Yang",
+  "\tEmail": "laurajimenez@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "06103 Erik Fields Suite 781Jonesmouth, GA 49931-3078",
+  "YearlyAmountSpent": 559.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a675"
+  },
+  "Name": "Calvin Barnett",
+  "\tEmail": "rogersheather@hamilton-jensen.org",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "510 Michele PortEast Angela, HI 23618",
+  "YearlyAmountSpent": 447.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a676"
+  },
+  "Name": "Marc Nichols",
+  "\tEmail": "ievans@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "2064 Poole GrovesNorth Chrisland, SC 78169",
+  "YearlyAmountSpent": 505.23
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a677"
+  },
+  "Name": "Keenan Guerrero",
+  "\tEmail": "john85@rodriguez.info",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "57120 Frank KeysJerryborough, DC 81028-0939",
+  "YearlyAmountSpent": 557.25
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a678"
+  },
+  "Name": "Keelan Nixon",
+  "\tEmail": "phillipsmark@byrd.net",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "6734 Perez Trafficway Suite 395Nunezland, NC 83245",
+  "YearlyAmountSpent": 422.37
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a679"
+  },
+  "Name": "Arthur Yates",
+  "\tEmail": "elizabeth61@berg-braun.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "649 King ExtensionNorth April, NY 54175",
+  "YearlyAmountSpent": 445.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67a"
+  },
+  "Name": "Leo Winters",
+  "\tEmail": "dbenson@simpson.net",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "732 Heather PlaceNorth Michael, VT 92527",
+  "YearlyAmountSpent": 442.06
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67b"
+  },
+  "Name": "Mina Moss",
+  "\tEmail": "stephaniehill@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "8248 Parker Overpass Apt. 024Lake Pamela, WY 44322-1735",
+  "YearlyAmountSpent": 533.04
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67c"
+  },
+  "Name": "Savanna Logan",
+  "\tEmail": "davisbriana@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "15298 Erickson Shore Apt. 056South Patrickfort, MD 16503-3145",
+  "YearlyAmountSpent": 424.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67d"
+  },
+  "Name": "Marianne Powell",
+  "\tEmail": "kday@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "4835 Jessica Walk Suite 205West Jacob, NH 93681",
+  "YearlyAmountSpent": 498.64
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67e"
+  },
+  "Name": "Olly Warner",
+  "\tEmail": "jonathanconner@morales.biz",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "920 Anderson ExtensionsGreenfurt, GA 19316-3498",
+  "YearlyAmountSpent": 330.59
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a67f"
+  },
+  "Name": "Montgomery Page",
+  "\tEmail": "anneingram@miller-alexander.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "4301 Park Lake Apt. 158Spencertown, SD 45934",
+  "YearlyAmountSpent": 443.44
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a680"
+  },
+  "Name": "Dora Chapman",
+  "\tEmail": "jeffery48@mcguire.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "52326 Townsend CentersLake Williamburgh, NJ 70568-7463",
+  "YearlyAmountSpent": 478.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a681"
+  },
+  "Name": "Phoebe Vazquez",
+  "\tEmail": "theresamitchell@martin-chambers.biz",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "157 Linda RoadsNew Jimmyshire, MH 51942",
+  "YearlyAmountSpent": 440
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a682"
+  },
+  "Name": "Frazer Beltran",
+  "\tEmail": "christianwade@butler.info",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "3687 Sarah Ranch Suite 919Gainesfort, AK 05665",
+  "YearlyAmountSpent": 357.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a683"
+  },
+  "Name": "Caitlin Tran",
+  "\tEmail": "tina16@santiago.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "314 Kidd RunJohnfort, KS 46546-2732",
+  "YearlyAmountSpent": 476.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a684"
+  },
+  "Name": "Krystal Rojas",
+  "\tEmail": "vancealicia@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "06307 Scott Spurs Suite 161Jessicaburgh, NH 26093-5908",
+  "YearlyAmountSpent": 501.12
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a685"
+  },
+  "Name": "Brenda Harrison",
+  "\tEmail": "dbell@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "3485 Anthony Street Apt. 119Mikeberg, FL 32602",
+  "YearlyAmountSpent": 592.69
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a686"
+  },
+  "Name": "Henri Blackwell",
+  "\tEmail": "pamelahampton@martin-cobb.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "91542 Jessica Springs Suite 255Thomashaven, MT 39239-3790",
+  "YearlyAmountSpent": 486.08
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a687"
+  },
+  "Name": "Maximillian Rowe",
+  "\tEmail": "mark81@wagner.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "410 Gonzalez Corners Apt. 187East Stephenport, VT 22771",
+  "YearlyAmountSpent": 576.03
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a688"
+  },
+  "Name": "Matteo Baker",
+  "\tEmail": "awerner@manning.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "407 Blake WaysPort Davidland, WA 78438",
+  "YearlyAmountSpent": 442.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a689"
+  },
+  "Name": "Charis Sullivan",
+  "\tEmail": "robertramirez@kaiser.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "1583 Anderson CovesEast Rebecca, NH 27212",
+  "YearlyAmountSpent": 461.79
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68a"
+  },
+  "Name": "Hana Mullins",
+  "\tEmail": "justin26@gmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "32303 Baldwin CausewaySouth Robertside, HI 58126",
+  "YearlyAmountSpent": 488.39
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68b"
+  },
+  "Name": "Kaylee Gomez",
+  "\tEmail": "douglas95@yahoo.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "395 Summers Courts Apt. 413Coopermouth, IA 21205-1079",
+  "YearlyAmountSpent": 593.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68c"
+  },
+  "Name": "Alice Pearson",
+  "\tEmail": "qmorse@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "0360 Pearson Dam Suite 263Lake Shawn, UT 65986-4190",
+  "YearlyAmountSpent": 392.81
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68d"
+  },
+  "Name": "Joseph Jacobson",
+  "\tEmail": "jason50@bates.net",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "74839 Michael Plains Suite 356South Austinshire, ND 40309-1424",
+  "YearlyAmountSpent": 443.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68e"
+  },
+  "Name": "Kiran Hunt",
+  "\tEmail": "qeaton@savage.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "27032 Michelle ForestMorrowtown, ND 14749",
+  "YearlyAmountSpent": 535.48
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a68f"
+  },
+  "Name": "Russell Lam",
+  "\tEmail": "tluna@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "01512 Hendricks RueEast Pamela, PR 46481",
+  "YearlyAmountSpent": 533.4
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a690"
+  },
+  "Name": "Lia Valenzuela",
+  "\tEmail": "kara33@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "5527 Hogan RoadSouth Jeffreychester, MA 28632",
+  "YearlyAmountSpent": 532.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a691"
+  },
+  "Name": "Daniyal Patterson",
+  "\tEmail": "thomas22@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "7346 Jennifer Green Suite 148Wagnertown, MT 65972",
+  "YearlyAmountSpent": 558.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a692"
+  },
+  "Name": "Kaan Schroeder",
+  "\tEmail": "david47@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "37216 Krista DrivesWest Andrew, DE 70036",
+  "YearlyAmountSpent": 508.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a693"
+  },
+  "Name": "Remi Rose",
+  "\tEmail": "beasleyjoseph@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "1094 Bentley ForgesLake Antonio, MA 29181-3664",
+  "YearlyAmountSpent": 403.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a694"
+  },
+  "Name": "Melanie Clay",
+  "\tEmail": "hoffmandaniel@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "922 Hampton Path Suite 198Port Jasonmouth, FL 46623",
+  "YearlyAmountSpent": 640.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a695"
+  },
+  "Name": "Aiza Perez",
+  "\tEmail": "garnerjustin@king.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "0833 Brian Canyon Suite 566Anthonymouth, VT 01329-7541",
+  "YearlyAmountSpent": 461.63
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a696"
+  },
+  "Name": "Ollie Andrade",
+  "\tEmail": "francesjohnson@lee.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "577 Peters TurnpikeLoriport, MA 60572-1669",
+  "YearlyAmountSpent": 382.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a697"
+  },
+  "Name": "Angel Ward",
+  "\tEmail": "awu@robinson.org",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "0281 Dale Wells Suite 656East Joshua, ME 73389",
+  "YearlyAmountSpent": 561.87
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a698"
+  },
+  "Name": "Alivia Price",
+  "\tEmail": "xevans@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "13164 Miller CampSouth Deannaberg, ID 85433",
+  "YearlyAmountSpent": 444.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a699"
+  },
+  "Name": "Tegan Maldonado",
+  "\tEmail": "lauriewilson@jackson.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "389 Joshua Stravenue Apt. 983Martinezland, MN 29049",
+  "YearlyAmountSpent": 401.03
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69a"
+  },
+  "Name": "Hanna Case",
+  "\tEmail": "cruiz@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "497 Julian Brook Suite 872Hillberg, FM 87927-5760",
+  "YearlyAmountSpent": 384.33
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69b"
+  },
+  "Name": "Harold Jenkins",
+  "\tEmail": "tammy12@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "78297 Brown Street Apt. 786East Taylorfurt, AK 97246",
+  "YearlyAmountSpent": 527.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69c"
+  },
+  "Name": "Bradley Fletcher",
+  "\tEmail": "adamperkins@terrell.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "2595 James Creek Apt. 571Millerberg, HI 82236",
+  "YearlyAmountSpent": 482.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69d"
+  },
+  "Name": "Haris Ashley",
+  "\tEmail": "willie26@johnson-howard.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "97686 Robertson Cape Suite 607Port Veronicaside, NE 47293",
+  "YearlyAmountSpent": 594.27
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69e"
+  },
+  "Name": "Ellena Morris",
+  "\tEmail": "yvaughn@meyer.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "9863 Dawn Court Suite 429Lake Connie, MI 12238",
+  "YearlyAmountSpent": 502.09
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a69f"
+  },
+  "Name": "Mercedes Duncan",
+  "\tEmail": "carolfarley@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "51173 Curtis Cliff Apt. 727Ramoston, DE 32714-4579",
+  "YearlyAmountSpent": 407.66
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a0"
+  },
+  "Name": "Kurt Everett",
+  "\tEmail": "rhonda01@gmail.com",
+  "Status": "Active",
+  "Weeks": 6,
+  "Address": "939 Watson RunStaceyberg, VT 58376-0454",
+  "YearlyAmountSpent": 708.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a1"
+  },
+  "Name": "Cain Pennington",
+  "\tEmail": "david80@knight.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "368 Morris Ports Apt. 735New Lisaville, GA 34271-8632",
+  "YearlyAmountSpent": 531.96
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a2"
+  },
+  "Name": "Isla Sanders",
+  "\tEmail": "aaron04@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "16338 Scott Corner Suite 727West Alexandra, AR 54429",
+  "YearlyAmountSpent": 521.24
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a3"
+  },
+  "Name": "Ellen Stewart",
+  "\tEmail": "kaylahenderson@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "Unit 1609 Box 3480DPO AA 95185",
+  "YearlyAmountSpent": 447.37
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a4"
+  },
+  "Name": "Mathew Hill",
+  "\tEmail": "mholt@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "486 Adams HillsNorth Walter, MS 18124",
+  "YearlyAmountSpent": 385.15
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a5"
+  },
+  "Name": "Celeste English",
+  "\tEmail": "tanya20@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "69279 Stewart MountainsSouth Pamela, KS 22541-3414",
+  "YearlyAmountSpent": 430.59
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a6"
+  },
+  "Name": "Anish Melton",
+  "\tEmail": "aaron89@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "0128 Sampson Loop Suite 943Hoffmanton, MO 02122",
+  "YearlyAmountSpent": 418.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a7"
+  },
+  "Name": "Jonathan Connolly",
+  "\tEmail": "hunterlucas@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "89301 Kylie CrossroadPetersonberg, MH 23834",
+  "YearlyAmountSpent": 478.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a8"
+  },
+  "Name": "Connor Wagner",
+  "\tEmail": "sfarley@jones.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "0554 Powers CurveNathanchester, FL 06878-6336",
+  "YearlyAmountSpent": 483.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6a9"
+  },
+  "Name": "Matilda Chambers",
+  "\tEmail": "sarahtran@dixon.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "770 Katie Walk Apt. 585Port David, MN 52850",
+  "YearlyAmountSpent": 538.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6aa"
+  },
+  "Name": "Maisie Barnes",
+  "\tEmail": "randywhite@armstrong.biz",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "0506 Pitts ForksWoodsbury, AL 98082-8186",
+  "YearlyAmountSpent": 486.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ab"
+  },
+  "Name": "Amaan Hicks",
+  "\tEmail": "tsmith@yahoo.com",
+  "Status": "Active",
+  "Weeks": 1,
+  "Address": "92028 Thomas Mountains Suite 044New Matthew, MI 02429-0994",
+  "YearlyAmountSpent": 385.1
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ac"
+  },
+  "Name": "Whitney Haynes",
+  "\tEmail": "martinezleah@carter.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "8456 Joseph Locks Suite 926Christopherport, TN 57784",
+  "YearlyAmountSpent": 527.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ad"
+  },
+  "Name": "Tallulah Acevedo",
+  "\tEmail": "steven00@combs.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "64460 Morris FordsGonzalesmouth, MI 40832",
+  "YearlyAmountSpent": 547.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ae"
+  },
+  "Name": "Alasdair Mason",
+  "\tEmail": "blakekent@smith-pena.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "3933 Brooke PointJohnsonburgh, DE 22659-3488",
+  "YearlyAmountSpent": 410.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6af"
+  },
+  "Name": "Diego Buchanan",
+  "\tEmail": "amanda03@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "313 Lisa Loop Apt. 543North Jenniferchester, MN 58819",
+  "YearlyAmountSpent": 583.98
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b0"
+  },
+  "Name": "Hollie Rhodes",
+  "\tEmail": "brandonsmith@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "62106 Nathan Mountain Suite 505North Matthewborough, AZ 32092-6122",
+  "YearlyAmountSpent": 474.53
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b1"
+  },
+  "Name": "Bryony Skinner",
+  "\tEmail": "thardy@perry.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "39209 Cooper Neck Apt. 541Tylermouth, ME 94450",
+  "YearlyAmountSpent": 414.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b2"
+  },
+  "Name": "Liberty Nielsen",
+  "\tEmail": "michael86@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "87270 Garrett Cliffs Suite 361Brooksberg, MO 26555-2502",
+  "YearlyAmountSpent": 550.81
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b3"
+  },
+  "Name": "Aysha Clements",
+  "\tEmail": "ulee@wells.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "309 Singleton HollowMatthewhaven, NJ 68776-7477",
+  "YearlyAmountSpent": 458.78
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b4"
+  },
+  "Name": "Evelyn Walton",
+  "\tEmail": "judithsmith@jimenez.biz",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "186 Anthony RouteGordonview, AS 78120-4633",
+  "YearlyAmountSpent": 407.54
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b5"
+  },
+  "Name": "Kadie Cobb",
+  "\tEmail": "nblack@smith-romero.biz",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "00615 Tracy IslandsNew Marcfort, MO 87297-7431",
+  "YearlyAmountSpent": 581.31
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b6"
+  },
+  "Name": "Darren Doyle",
+  "\tEmail": "michaelcampbell@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "96480 White Lane Suite 521Pattersonhaven, OR 39409-4561",
+  "YearlyAmountSpent": 546.56
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b7"
+  },
+  "Name": "Katherine Davenport",
+  "\tEmail": "rcarter@crane-thompson.org",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "14064 Frazier Hills Apt. 176Amyborough, MP 77858-0018",
+  "YearlyAmountSpent": 503.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b8"
+  },
+  "Name": "Emilio Meadows",
+  "\tEmail": "dwhite@gmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "02136 White Grove Suite 418Marytown, DE 70033",
+  "YearlyAmountSpent": 549.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6b9"
+  },
+  "Name": "Hashim Mcdowell",
+  "\tEmail": "vancemichelle@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "6586 Reginald Crest Apt. 061North Josephfort, NM 55275",
+  "YearlyAmountSpent": 482.83
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ba"
+  },
+  "Name": "Flynn Boyd",
+  "\tEmail": "kylemelendez@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "2749 Cunningham Flat Apt. 838Derekberg, OH 45288",
+  "YearlyAmountSpent": 557.61
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6bb"
+  },
+  "Name": "Minnie Villanueva",
+  "\tEmail": "richard35@hale-duncan.net",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "33940 Craig Throughway Apt. 334Martinview, IL 62015-0314",
+  "YearlyAmountSpent": 484.88
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6bc"
+  },
+  "Name": "Iwan Hawkins",
+  "\tEmail": "waltonkaren@gmail.com",
+  "Status": "Pending",
+  "Weeks": 6,
+  "Address": "355 Villegas Isle Apt. 070West Jenniferview, NM 26775-4339",
+  "YearlyAmountSpent": 669.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6bd"
+  },
+  "Name": "Elinor Medina",
+  "\tEmail": "contrerastiffany@gmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "439 Todd Summit Apt. 478Mooreland, AR 31655",
+  "YearlyAmountSpent": 547.71
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6be"
+  },
+  "Name": "Preston Hanson",
+  "\tEmail": "rogerstiffany@wilson-horne.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "30700 Justin PortsPort David, PA 52171-5921",
+  "YearlyAmountSpent": 537.83
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6bf"
+  },
+  "Name": "Ivy Greer",
+  "\tEmail": "waltercharles@sanders.net",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "291 Stephen Glens Apt. 532Jacquelineton, NJ 53606-5656",
+  "YearlyAmountSpent": 408.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c0"
+  },
+  "Name": "Lilly Robertson",
+  "\tEmail": "john96@chan-anderson.biz",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "04290 Barron SquareLaurenmouth, AS 79917-9544",
+  "YearlyAmountSpent": 663.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c1"
+  },
+  "Name": "Daniella Wade",
+  "\tEmail": "bushsharon@barber.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "0013 Andre FieldWhitebury, AZ 68447-6306",
+  "YearlyAmountSpent": 506.38
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c2"
+  },
+  "Name": "Madeleine Pratt",
+  "\tEmail": "nicolegay@jennings.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "50718 Timothy LightGarciaport, SC 60266-6696",
+  "YearlyAmountSpent": 528.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c3"
+  },
+  "Name": "Taha Mahoney",
+  "\tEmail": "rchambers@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "53964 Weaver Brook Suite 861Stevensonshire, NY 18128",
+  "YearlyAmountSpent": 632.12
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c4"
+  },
+  "Name": "Antony Howell",
+  "\tEmail": "gomezalicia@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "506 Allison Cove Apt. 766Weeksstad, AS 71308",
+  "YearlyAmountSpent": 488.27
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c5"
+  },
+  "Name": "Nellie Strong",
+  "\tEmail": "potterkenneth@strickland.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "2559 Harris Pines Apt. 514Michaelshire, ME 21753-8834",
+  "YearlyAmountSpent": 508.74
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c6"
+  },
+  "Name": "Roosevelt Barton",
+  "\tEmail": "charlesjackson@brady-fuller.net",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "3802 Veronica CausewayEast Patrickfurt, DC 84522",
+  "YearlyAmountSpent": 411.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c7"
+  },
+  "Name": "Ammar O'Quinn",
+  "\tEmail": "jacquelinewest@pace-herrera.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "592 Villanueva VillageWoodsstad, AK 20530",
+  "YearlyAmountSpent": 409.09
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c8"
+  },
+  "Name": "Lorcan Herman",
+  "\tEmail": "stevenjohnson@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "PSC 4427, Box 6116APO AP 87584-5187",
+  "YearlyAmountSpent": 467.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6c9"
+  },
+  "Name": "Subhan Dixon",
+  "\tEmail": "johnsonchelsea@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "19270 Velasquez CovesBoylechester, AZ 51480",
+  "YearlyAmountSpent": 512.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ca"
+  },
+  "Name": "Keaton Doherty",
+  "\tEmail": "jenniferjenkins@jones.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "USNS JacobsFPO AE 71507-1312",
+  "YearlyAmountSpent": 608.27
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6cb"
+  },
+  "Name": "Rosie Dunlap",
+  "\tEmail": "ebutler@rogers-gonzalez.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "001 Estrada UnionLewismouth, TN 47360",
+  "YearlyAmountSpent": 589.03
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6cc"
+  },
+  "Name": "Lucia Ortega",
+  "\tEmail": "ellenlucas@cox.org",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "86268 Davis CornerNorth Danielview, CT 59551-9382",
+  "YearlyAmountSpent": 444.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6cd"
+  },
+  "Name": "Adem Fox",
+  "\tEmail": "elizabethnunez@vasquez-nelson.net",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "209 Andrew ViaductPort Anna, OR 01627-8037",
+  "YearlyAmountSpent": 493.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ce"
+  },
+  "Name": "Alisha Holden",
+  "\tEmail": "ramirezjacob@turner.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "19704 Kaitlin FlatWest Andrewtown, VI 38642",
+  "YearlyAmountSpent": 532.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6cf"
+  },
+  "Name": "Lyndon Mcgee",
+  "\tEmail": "brian51@cook.info",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "0508 Terrance CliffRebekahtown, NC 48724-8308",
+  "YearlyAmountSpent": 275.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d0"
+  },
+  "Name": "Estelle Brock",
+  "\tEmail": "victoriajohnson@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "2082 Christopher Place Apt. 081Cynthiahaven, HI 99393-8910",
+  "YearlyAmountSpent": 511.04
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d1"
+  },
+  "Name": "Saad Farrell",
+  "\tEmail": "lawrencewalton@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "584 Patterson FallsWest Alicia, DE 45751",
+  "YearlyAmountSpent": 438.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d2"
+  },
+  "Name": "Tori Contreras",
+  "\tEmail": "ashleymoreno@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "11430 Meza Green Suite 037Martinezborough, FL 40624-8726",
+  "YearlyAmountSpent": 475.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d3"
+  },
+  "Name": "Nancy Foley",
+  "\tEmail": "wesleyvance@moore.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "210 Johnson Street Suite 717New Bethanyborough, MO 84817",
+  "YearlyAmountSpent": 483.54
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d4"
+  },
+  "Name": "Haroon Dyer",
+  "\tEmail": "edwardbrown@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 6,
+  "Address": "2971 Angela IslandLake Timothychester, NE 48734-6685",
+  "YearlyAmountSpent": 663.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d5"
+  },
+  "Name": "Kamran Pittman",
+  "\tEmail": "youngellen@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "994 Joel Highway Suite 216New Jessicafort, UT 14179",
+  "YearlyAmountSpent": 544.41
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d6"
+  },
+  "Name": "Dean Nelson",
+  "\tEmail": "robin80@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "928 Bailey RoadEast Mary, DE 11678-5634",
+  "YearlyAmountSpent": 630.16
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d7"
+  },
+  "Name": "Flora Blanchard",
+  "\tEmail": "dana59@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "31927 Jill MountainSouth Jessica, MN 63418",
+  "YearlyAmountSpent": 461.11
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d8"
+  },
+  "Name": "Ifan Stein",
+  "\tEmail": "bwilliams@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "1549 Walker Passage Apt. 463West Calvin, AZ 03144",
+  "YearlyAmountSpent": 491.91
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6d9"
+  },
+  "Name": "Caitlyn Walters",
+  "\tEmail": "whitetyler@anderson-avery.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "4547 Stafford Throughway Apt. 178North Patrick, MD 60768-4837",
+  "YearlyAmountSpent": 574.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6da"
+  },
+  "Name": "Raheem Baldwin",
+  "\tEmail": "rwilliams@trujillo.biz",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "54560 Thompson Creek Apt. 029New Brianville, FL 84430-8588",
+  "YearlyAmountSpent": 530.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6db"
+  },
+  "Name": "Brogan Garcia",
+  "\tEmail": "randall85@williams.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "5086 Morales Islands Apt. 099New Patricia, IL 78823",
+  "YearlyAmountSpent": 581.8
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6dc"
+  },
+  "Name": "Yousef Mcneil",
+  "\tEmail": "kevin45@mathews.net",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "02393 Baker FallsNew Georgeport, ND 36338-5110",
+  "YearlyAmountSpent": 556.3
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6dd"
+  },
+  "Name": "Jeffrey Trevino",
+  "\tEmail": "deborah48@white.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "1693 Gary Mission Suite 479Lake Kelly, MO 68205",
+  "YearlyAmountSpent": 502.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6de"
+  },
+  "Name": "Juliet Beltran",
+  "\tEmail": "hoganrichard@george.com",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "4929 Michelle GroveLake Alexis, MT 92147-1660",
+  "YearlyAmountSpent": 556.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6df"
+  },
+  "Name": "Roger Barnes",
+  "\tEmail": "kelly24@lewis.info",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "983 Ross GlenWest Jessica, NJ 42860-5757",
+  "YearlyAmountSpent": 475.07
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e0"
+  },
+  "Name": "Neil Barr",
+  "\tEmail": "katherinegray@yahoo.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "685 Sexton Ranch Suite 125Lake Robertshire, NE 04469-3024",
+  "YearlyAmountSpent": 486.95
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e1"
+  },
+  "Name": "Alysha Sparks",
+  "\tEmail": "efoster@williamson-boyd.org",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "4968 Bennett ManorsRogerschester, IL 81579-8333",
+  "YearlyAmountSpent": 434.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e2"
+  },
+  "Name": "Otis Taylor",
+  "\tEmail": "jordandavid@gmail.com",
+  "Status": "Active",
+  "Weeks": 1,
+  "Address": "61502 Parker Vista Apt. 363Jonesshire, GU 33532",
+  "YearlyAmountSpent": 304.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e3"
+  },
+  "Name": "Patrick Mckay",
+  "\tEmail": "sanchezamber@scott-patterson.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "257 Hunt ManorsSouth Charlottefort, CT 15033",
+  "YearlyAmountSpent": 571.22
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e4"
+  },
+  "Name": "Aron Benson",
+  "\tEmail": "tinayoung@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "83995 Owens Course Apt. 747South Jennifer, NJ 29942",
+  "YearlyAmountSpent": 583.08
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e5"
+  },
+  "Name": "Neve Pace",
+  "\tEmail": "alicia28@fuller.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "8055 Robinson Brooks Apt. 657Walterview, KY 83019",
+  "YearlyAmountSpent": 445.75
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e6"
+  },
+  "Name": "Callie Jackson",
+  "\tEmail": "rileyalejandro@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "Unit 1475 Box 4215DPO AE 39546-5591",
+  "YearlyAmountSpent": 392.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e7"
+  },
+  "Name": "Teresa Ho",
+  "\tEmail": "oliviamarshall@sawyer-sellers.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "Unit 5934 Box 9748DPO AA 37361-3043",
+  "YearlyAmountSpent": 565.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e8"
+  },
+  "Name": "Abdul Bernard",
+  "\tEmail": "hortonrobert@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "31309 Stacey Keys Apt. 979South Jason, KS 35357",
+  "YearlyAmountSpent": 499.14
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6e9"
+  },
+  "Name": "Abu Combs",
+  "\tEmail": "montgomerycheyenne@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "1812 Sandra Shoal Apt. 350Amandamouth, SC 87794-1628",
+  "YearlyAmountSpent": 510.54
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ea"
+  },
+  "Name": "Aayan Strickland",
+  "\tEmail": "martinkristi@sanchez-coleman.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "PSC 1893, Box 7023APO AA 73445",
+  "YearlyAmountSpent": 308.53
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6eb"
+  },
+  "Name": "Erika Hickman",
+  "\tEmail": "jefferycampbell@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "381 Ashley Locks Suite 366North Migueltown, TX 09795-0494",
+  "YearlyAmountSpent": 561.52
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ec"
+  },
+  "Name": "Hana Bruce",
+  "\tEmail": "webertom@phelps.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "189 Crawford Hill Apt. 746New Madison, WV 14108-4333",
+  "YearlyAmountSpent": 423.47
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ed"
+  },
+  "Name": "Connor Burns",
+  "\tEmail": "aschmidt@johnson.biz",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "Unit 1743 Box 8085DPO AE 47693-8164",
+  "YearlyAmountSpent": 513.15
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ee"
+  },
+  "Name": "Darcy Charles",
+  "\tEmail": "lisadelgado@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "57993 Jennifer Unions Suite 685Emilyville, OK 53366-2375",
+  "YearlyAmountSpent": 529.19
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ef"
+  },
+  "Name": "Arjan Bowman",
+  "\tEmail": "sharongraves@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 0,
+  "Address": "73098 Ronald PortCliffordborough, MO 37479-9244",
+  "YearlyAmountSpent": 314.44
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f0"
+  },
+  "Name": "Aleksander Monroe",
+  "\tEmail": "flevine@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "5292 Melanie Crescent Apt. 064Fischerborough, NV 85721-5045",
+  "YearlyAmountSpent": 478.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f1"
+  },
+  "Name": "Ted Hess",
+  "\tEmail": "rskinner@johnson-jefferson.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "24725 Neal LockCynthiaville, NY 51578",
+  "YearlyAmountSpent": 444.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f2"
+  },
+  "Name": "Laila Prince",
+  "\tEmail": "kiarakim@harris.org",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "1502 Gonzalez ThroughwayKathrynchester, FM 86014-7194",
+  "YearlyAmountSpent": 475.02
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f3"
+  },
+  "Name": "Lena Wiley",
+  "\tEmail": "rachelrodriguez@lara-waters.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "35466 Tommy StreamPort Daniellemouth, KS 68863-6330",
+  "YearlyAmountSpent": 436.72
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f4"
+  },
+  "Name": "Sonny Allen",
+  "\tEmail": "dbrown@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "76666 Kathy LocksPort Susan, ME 64335",
+  "YearlyAmountSpent": 521.2
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f5"
+  },
+  "Name": "Ashley Mathews",
+  "\tEmail": "mary45@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "33213 Tanner Knolls Apt. 519Whiteborough, OR 37119-7790",
+  "YearlyAmountSpent": 478.18
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f6"
+  },
+  "Name": "Wojciech Byrne",
+  "\tEmail": "marcusleach@floyd.org",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "Unit 3998 Box 4348DPO AA 37629",
+  "YearlyAmountSpent": 432.48
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f7"
+  },
+  "Name": "Darcey Stanton",
+  "\tEmail": "lmunoz@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "2100 Austin Camp Apt. 943Anthonymouth, WV 24243-3781",
+  "YearlyAmountSpent": 438.3
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f8"
+  },
+  "Name": "Murray Potts",
+  "\tEmail": "dvasquez@wiley.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "967 Chloe Springs Suite 554Lake Ashley, GA 03230",
+  "YearlyAmountSpent": 388.94
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6f9"
+  },
+  "Name": "Giovanni Savage",
+  "\tEmail": "dylanmartin@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "42644 Helen Keys Apt. 103Jessicahaven, KS 89406-1960",
+  "YearlyAmountSpent": 534.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6fa"
+  },
+  "Name": "Molly Burch",
+  "\tEmail": "xkaufman@gmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "02342 Melissa IslandsSmithhaven, KS 68335",
+  "YearlyAmountSpent": 537.92
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6fb"
+  },
+  "Name": "Randy Salinas",
+  "\tEmail": "jasonhensley@yahoo.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "97262 Brian SkywayLake Marissa, GU 96859",
+  "YearlyAmountSpent": 407.88
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6fc"
+  },
+  "Name": "Arron Richards",
+  "\tEmail": "gstrong@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "7875 Landry Road Apt. 947Brownshire, NC 10074-7735",
+  "YearlyAmountSpent": 618.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6fd"
+  },
+  "Name": "Cindy Parrish",
+  "\tEmail": "arnoldsamuel@wilson.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "949 Tapia ViaductMartinezfurt, CT 79271-8205",
+  "YearlyAmountSpent": 502.77
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6fe"
+  },
+  "Name": "Aleeza Evans",
+  "\tEmail": "scottrose@yahoo.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "50639 Sarah Isle Apt. 268Yangmouth, MO 05540",
+  "YearlyAmountSpent": 397.42
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a6ff"
+  },
+  "Name": "Helena Haley",
+  "\tEmail": "salazarkaren@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "51173 Burton Wall Apt. 417Prestonville, NY 37002",
+  "YearlyAmountSpent": 392.29
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a700"
+  },
+  "Name": "Layton Oconnor",
+  "\tEmail": "susanibarra@yahoo.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "426 Scott Radial Apt. 065Abigailstad, MS 16590-2222",
+  "YearlyAmountSpent": 689.24
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a701"
+  },
+  "Name": "Nelson Bloggs",
+  "\tEmail": "nhenry@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "3874 Harper PlazaNorth Nancy, ME 96802-9462",
+  "YearlyAmountSpent": 543.13
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a702"
+  },
+  "Name": "Ismail Grant",
+  "\tEmail": "millerrachel@gallagher-nichols.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "Unit 4742 Box 9517DPO AE 67219-3123",
+  "YearlyAmountSpent": 577.74
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a703"
+  },
+  "Name": "Iona Howe",
+  "\tEmail": "garciakevin@gmail.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "845 Colleen WaysLake Matthewview, VT 65340-3159",
+  "YearlyAmountSpent": 436.58
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a704"
+  },
+  "Name": "Zoe Gutierrez",
+  "\tEmail": "philliproberson@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "Unit 0373 Box 8981DPO AA 89902",
+  "YearlyAmountSpent": 553.99
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a705"
+  },
+  "Name": "Lana Friedman",
+  "\tEmail": "kstafford@estes-nguyen.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "PSC 4856, Box 1297APO AA 17032-7944",
+  "YearlyAmountSpent": 427.36
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a706"
+  },
+  "Name": "Robyn Khan",
+  "\tEmail": "kennethperry@bowen.org",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "272 Frederick LodgeEast Andrew, FL 07414",
+  "YearlyAmountSpent": 424.73
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a707"
+  },
+  "Name": "Sufyaan Cummings",
+  "\tEmail": "prussell@lopez.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "9985 Wolf PassBrandimouth, CA 63346",
+  "YearlyAmountSpent": 541.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a708"
+  },
+  "Name": "Herman Peterson",
+  "\tEmail": "mosleyjacob@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "PSC 1790, Box 8872APO AE 01821-4769",
+  "YearlyAmountSpent": 469.38
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a709"
+  },
+  "Name": "Luis Stephens",
+  "\tEmail": "rhaas@yahoo.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "4502 Jennifer Prairie Suite 029Lake Jesse, LA 02328-3633",
+  "YearlyAmountSpent": 444.55
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70a"
+  },
+  "Name": "Kaan Daniels",
+  "\tEmail": "antonioharris@hotmail.com",
+  "Status": "Active",
+  "Weeks": 2,
+  "Address": "4307 Nicholas Drive Apt. 259Ramirezberg, AS 59832",
+  "YearlyAmountSpent": 492.56
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70b"
+  },
+  "Name": "Ruben Wheeler",
+  "\tEmail": "austinthomas@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "5855 Gross Burgs Suite 169Ballland, AS 98525",
+  "YearlyAmountSpent": 535.32
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70c"
+  },
+  "Name": "Larry Tyler",
+  "\tEmail": "bethsullivan@reed.net",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "80500 Mary Corners Apt. 225Wallsville, ME 80526",
+  "YearlyAmountSpent": 408.96
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70d"
+  },
+  "Name": "Izabella Holloway",
+  "\tEmail": "ncummings@yahoo.com",
+  "Status": "Cancelled",
+  "Weeks": 4,
+  "Address": "344 Jessica StravenueNew Brian, MA 04730-6761",
+  "YearlyAmountSpent": 487.56
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70e"
+  },
+  "Name": "Jamal Burton",
+  "\tEmail": "hking@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "85181 Christian Courts Suite 758Larryfurt, MS 38722-6766",
+  "YearlyAmountSpent": 487.65
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a70f"
+  },
+  "Name": "Keanu Marquez",
+  "\tEmail": "annstone@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "543 Reynolds BurgMelindaberg, KY 46631",
+  "YearlyAmountSpent": 402.17
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a710"
+  },
+  "Name": "Myrtle Woodard",
+  "\tEmail": "christopher44@hotmail.com",
+  "Status": "Active",
+  "Weeks": 4,
+  "Address": "549 Anna AvenuePort Laura, CA 76209-9339",
+  "YearlyAmountSpent": 551.02
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a711"
+  },
+  "Name": "Tristan Ross",
+  "\tEmail": "autumn88@mendoza-mills.com",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "214 Obrien Lakes Suite 572South Jeremy, KS 52867-7617",
+  "YearlyAmountSpent": 497.39
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a712"
+  },
+  "Name": "Genevieve Rios",
+  "\tEmail": "dhudson@ramos.net",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "5661 Grant CentersStevensfurt, CT 53959",
+  "YearlyAmountSpent": 494.64
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a713"
+  },
+  "Name": "Jesse Vincent",
+  "\tEmail": "egomez@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "768 Riley Pine Apt. 624Kellymouth, OK 98992-3108",
+  "YearlyAmountSpent": 479.25
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a714"
+  },
+  "Name": "Francesco Lam",
+  "\tEmail": "kimberlyruiz@smith-gordon.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "503 Adams Pines Apt. 638North Ashleyside, AZ 34687-6128",
+  "YearlyAmountSpent": 462.66
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a715"
+  },
+  "Name": "Andre O'Quinn",
+  "\tEmail": "mooremichelle@logan.com",
+  "Status": "Pending",
+  "Weeks": 3,
+  "Address": "07813 Randy PointLake Thomasberg, MO 06013-9920",
+  "YearlyAmountSpent": 515.5
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a716"
+  },
+  "Name": "Freddie Miles",
+  "\tEmail": "aaron22@gmail.com",
+  "Status": "Active",
+  "Weeks": 5,
+  "Address": "38678 Sean Drive Suite 293Karentown, IA 78306-2717",
+  "YearlyAmountSpent": 576.48
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a717"
+  },
+  "Name": "Kade Salinas",
+  "\tEmail": "michelleshepherd@price.com",
+  "Status": "Pending",
+  "Weeks": 1,
+  "Address": "6820 Erica Vista Apt. 418Brightside, IA 50639",
+  "YearlyAmountSpent": 357.86
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a718"
+  },
+  "Name": "Benedict Christian",
+  "\tEmail": "zscott@wright.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "9909 Hoffman Ranch Suite 195Scotthaven, SC 53575",
+  "YearlyAmountSpent": 597.74
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a719"
+  },
+  "Name": "Vincent Mueller",
+  "\tEmail": "tracy79@wheeler.net",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "513 Moore Crescent Apt. 416Amandaberg, GU 03655-2219",
+  "YearlyAmountSpent": 327.38
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71a"
+  },
+  "Name": "Ameer Duran",
+  "\tEmail": "brian28@sanchez.org",
+  "Status": "Cancelled",
+  "Weeks": 3,
+  "Address": "7446 Mary FerryLake Sherryfurt, GA 49066-0207",
+  "YearlyAmountSpent": 510.4
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71b"
+  },
+  "Name": "Jerome Calhoun",
+  "\tEmail": "leonardhancock@hotmail.com",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "64147 Alexander Station Apt. 474East Jasonview, MN 83788",
+  "YearlyAmountSpent": 510.5
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71c"
+  },
+  "Name": "Courtney Olsen",
+  "\tEmail": "davidsonkathleen@gmail.com",
+  "Status": "Cancelled",
+  "Weeks": 2,
+  "Address": "70128 Zimmerman OverpassRobertsshire, VA 59860",
+  "YearlyAmountSpent": 403.82
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71d"
+  },
+  "Name": "Rachael Collins",
+  "\tEmail": "nathan84@lowery.net",
+  "Status": "Pending",
+  "Weeks": 5,
+  "Address": "01242 Stephanie Ways Suite 003Churchville, MO 35617",
+  "YearlyAmountSpent": 627.6
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71e"
+  },
+  "Name": "Wilma Howard",
+  "\tEmail": "kellydeborah@chan.biz",
+  "Status": "Active",
+  "Weeks": 3,
+  "Address": "354 Sanchez Wall Suite 884Juliabury, VI 39735",
+  "YearlyAmountSpent": 510.66
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a71f"
+  },
+  "Name": "Vinny Benson",
+  "\tEmail": "lewisjessica@craig-evans.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "4483 Jones Motorway Suite 872Lake Jamiefurt, UT 75292",
+  "YearlyAmountSpent": 573.85
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a720"
+  },
+  "Name": "Malika Miller",
+  "\tEmail": "katrina56@gmail.com",
+  "Status": "Pending",
+  "Weeks": 4,
+  "Address": "172 Owen Divide Suite 497West Richard, CA 19320",
+  "YearlyAmountSpent": 529.05
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a721"
+  },
+  "Name": "Bernard Horne",
+  "\tEmail": "dale88@hotmail.com",
+  "Status": "Cancelled",
+  "Weeks": 5,
+  "Address": "0787 Andrews Ranch Apt. 633South Chadburgh, TN 56128",
+  "YearlyAmountSpent": 551.62
+},
+{
+  "_id": {
+    "$oid": "67cee303a63b4bb507c1a722"
+  },
+  "Name": "Taylor Rollins",
+  "\tEmail": "cwilson@hotmail.com",
+  "Status": "Pending",
+  "Weeks": 2,
+  "Address": "680 Jennifer Lodge Apt. 808Brendachester, TX 05000-5873",
+  "YearlyAmountSpent": 456.47
+}]
