@@ -19,6 +19,15 @@ const connectDB = async () => {
 // Utility function to add delay
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+// Function to generate a random date within the last N days
+const getRandomDate = (days) => {
+  const today = new Date();
+  const randomDaysAgo = Math.floor(Math.random() * days); // 0 to N-1 days ago
+  const randomDate = new Date(today);
+  randomDate.setDate(today.getDate() - randomDaysAgo);
+  return randomDate;
+};
+
 // Function to insert data and handle duplicate key errors
 const safeInsertMany = async (model, data, name) => {
   try {
@@ -50,7 +59,6 @@ const seedDatabase = async () => {
 
     // 🔹 Step 2: Insert Customers
     customersData = customersData.map((customer) => {
-      // Detect the correct email key dynamically
       const emailKey = Object.keys(customer).find(
         (key) => key.trim().toLowerCase() === "email"
       );
@@ -60,7 +68,7 @@ const seedDatabase = async () => {
         name:
           customer.Name?.trim() ||
           `Customer_${Math.random().toString(36).substr(2, 5)}`,
-        email: emailKey ? customer[emailKey].trim() : "unknown@example.com", // ✅ Fixes undefined email issue
+        email: emailKey ? customer[emailKey].trim() : "unknown@example.com",
         status: customer.Status || "Pending",
         weeks: customer.Weeks || 0,
         address: customer.Address || "Unknown",
@@ -69,7 +77,7 @@ const seedDatabase = async () => {
             ? mongoose.Types.Decimal128.fromString(
                 parseFloat(customer.YearlyAmountSpent).toFixed(2)
               )
-            : mongoose.Types.Decimal128.fromString("0.0"), // ✅ Ensures proper Decimal128 format
+            : mongoose.Types.Decimal128.fromString("0.0"),
       };
     });
 
@@ -88,11 +96,13 @@ const seedDatabase = async () => {
     // Create an array of customer IDs for random assignment
     const customerIds = customers.map((cust) => cust._id);
 
-    // 🔹 Step 3: Insert Orders with valid customer IDs
+    // 🔹 Step 3: Insert Orders with valid customer IDs and randomized createdAt dates
     ordersData = ordersData.map((order) => ({
       ...order,
       _id: new mongoose.Types.ObjectId(order._id?.$oid || order._id),
-      customerId: customerIds[Math.floor(Math.random() * customerIds.length)], // Assign a valid customer
+      customerId: customerIds[Math.floor(Math.random() * customerIds.length)], // Assign a random customer
+      createdAt: getRandomDate(30), // ⏳ Randomize `createdAt` in the last 30 days
+      updatedAt: new Date(), // Keep `updatedAt` as current timestamp
     }));
 
     await safeInsertMany(Order, ordersData, "orders");
